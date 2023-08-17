@@ -13,7 +13,8 @@
 
 ### (2) Connect to Instance
 - Run SSH tool (Putty or MobaXterm etc.)
-- Create new SSH session with `Instance IP address, username: ubuntu, private key file`
+- Create new SSH session with `Instance IP address, username: ubuntu, private key file` to connect to the instance
+- Do step (3) onwards in this SSH session.
 
 ### (3) Python Environment Setup
 ```
