@@ -1,4 +1,4 @@
-## AWS EC2 Tips to Run a Simple Chat AI with Minimal Cost
+## AWS EC2 Tips for Setting Up a Simple Chat AI with Minimal Cost
 
 ### (1) AWS EC2 Instance Creation
 - Region: Your choice
