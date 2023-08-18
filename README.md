@@ -1,6 +1,6 @@
 ## AWS EC2 Tips for Setting Up an LLM-based Chat AI with Minimal Cost
 
-### (1) AWS EC2 Instance Creation
+### (1) [AWS](https://aws.amazon.com/) EC2 Instance Creation
 - Region: Your choice
 - Instance: g4dn.xlarge
 - Image: AWS Deep Learning Base GPU AMI (Ubuntu 20.04)
@@ -12,7 +12,7 @@
   - Outbound rule 1: All Traffic, All, Port: All, Destination: 0.0.0.0/0
 
 ### (2) Connect to Instance
-- Run SSH tool (Putty or MobaXterm etc.)
+- Run SSH tool (Putty or [MobaXterm](https://mobaxterm.mobatek.net/) etc.)
 - Create new SSH session with `Instance IP address, username: ubuntu, private key file` to connect to the instance
 - Do step (3)-(5) below in this SSH session.
 
@@ -23,7 +23,7 @@ python3 -m venv my_venv3
 source my_venv3/bin/activate
 ```
 
-### (4) Git Clone SimplyRetrieve and Install Requirements
+### (4) Git Clone [SimplyRetrieve](https://github.com/RCGAI/SimplyRetrieve.git) and Install Requirements
 ```
 git clone https://github.com/RCGAI/SimplyRetrieve.git
 cd SimplyRetrieve
