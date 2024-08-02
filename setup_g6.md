@@ -18,7 +18,7 @@
 
 ### (3) Python Environment Setup
 ```
-sudo apt install python3-venv
+sudo apt install python3.10-venv
 python3 -m venv my_venv3
 source my_venv3/bin/activate
 ```
