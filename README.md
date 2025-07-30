@@ -42,4 +42,6 @@ CUDA_VISIBLE_DEVICES=0 python chat.py --config configs/default_release.json
 - You are done! Should be able to see a Chat AI interface by now
 
 ## More Tips
-Coming soon!
+- [setup_ubuntu2404.md](setup_ubuntu2404.md)
+- [setup_ubuntu2204.md](setup_ubuntu2204.md)
+- [setup_ubuntu2004.md](setup_ubuntu2004.md)
