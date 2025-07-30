@@ -3,7 +3,8 @@
 ### (1) [AWS](https://aws.amazon.com/) EC2 Instance Creation
 - Region: Your choice
 - Instance: g6.xlarge or g5.xlarge or g6e.xlarge
-- AMI Image: Deep Learning Base OSS Nvidia Driver GPU AMI (Ubuntu 22.04)
+- AMI Image: Deep Learning Base OSS Nvidia Driver GPU AMI (Ubuntu 24.04)
+- AMI Image Release Notes: https://docs.aws.amazon.com/dlami/latest/devguide/X86-base-dlami.html
 - Key Pairs: Create your key pairs and save private key file
 - EBS Storage: gp3, Volume: 200GB, IOPS: 3000, Throughput: 125
 - Security Group: Create one with specs below
@@ -18,7 +19,7 @@
 
 ### (3) Python Environment Setup
 ```
-sudo apt install python3.10-venv
+sudo apt install python3.12-venv
 python3 -m venv my_venv3
 source my_venv3/bin/activate
 ```
