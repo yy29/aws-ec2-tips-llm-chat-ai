@@ -2,7 +2,7 @@
 
 ### (1) [AWS](https://aws.amazon.com/) EC2 Instance Creation
 - Region: Your choice
-- Instance: g6.xlarge or g5.xlarge or g6e.xlarge
+- Instance: g6.xlarge or g5.xlarge or g6e.xlarge or g4dn.xlarge
 - AMI Image: Deep Learning Base OSS Nvidia Driver GPU AMI (Ubuntu 22.04)
 - AMI Image Release Notes: https://docs.aws.amazon.com/dlami/latest/devguide/X86-base-dlami.html
 - Key Pairs: Create your key pairs and save private key file
