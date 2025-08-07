@@ -45,8 +45,3 @@ CUDA_VISIBLE_DEVICES=0 python chat.py --config configs/default_release.json
 ### (6) Access SimplyRetrieve
 - In browser (Chrome or Edge or etc.), access `<Instance IP address>:7860`
 - You are done! Should be able to see a Chat AI interface by now
-
-## More Tips
-- [setup_ubuntu2404.md](setup_ubuntu2404.md)
-- [setup_ubuntu2204.md](setup_ubuntu2204.md)
-- [setup_ubuntu2004.md](setup_ubuntu2004.md)
