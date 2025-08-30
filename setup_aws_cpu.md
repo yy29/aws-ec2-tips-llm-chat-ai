@@ -8,7 +8,6 @@
 - EBS Storage: gp3, Volume: 20GB, IOPS: 3000, Throughput: 125
 - Security Group: Create one with specs below
   - Inbound rule 1: SSH, TCP, Port: 22, Source: YOUR_IP_ADDRESS
-  - Inbound rule 2: Custom TCP, TCP, Port: 7860, Source: YOUR_IP_ADDRESS
   - Outbound rule 1: All Traffic, All, Port: All, Destination: 0.0.0.0/0
 
 ### (2) Connect to Instance
