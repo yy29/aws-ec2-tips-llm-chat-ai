@@ -6,7 +6,7 @@
 - AMI Image: Deep Learning Base OSS Nvidia Driver GPU AMI (Ubuntu 22.04)
 - AMI Image Release Notes: https://docs.aws.amazon.com/dlami/latest/devguide/X86-base-dlami.html
 - Key Pairs: Create your key pairs and save private key file
-- EBS Storage: gp3, Volume: 200GB, IOPS: 3000, Throughput: 125
+- EBS Storage: gp3, Volume: 100GB, IOPS: 3000, Throughput: 125
 - Security Group: Create one with specs below
   - Inbound rule 1: SSH, TCP, Port: 22, Source: YOUR_IP_ADDRESS
   - Inbound rule 2: Custom TCP, TCP, Port: 7860, Source: YOUR_IP_ADDRESS
