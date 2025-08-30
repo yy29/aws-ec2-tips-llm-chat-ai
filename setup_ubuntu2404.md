@@ -40,6 +40,3 @@ CUDA_VISIBLE_DEVICES=0 python chat.py --config configs/default_release.json
 ### (6) Access Chat AI
 - In browser (Chrome or Edge or etc.), access `<Instance IP address>:7860`
 - You are done! Should be able to see a Chat AI interface by now
-
-## More Tips
-Coming soon!
