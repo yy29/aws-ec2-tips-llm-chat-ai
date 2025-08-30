@@ -6,6 +6,9 @@
 ## Setting Up Python Development Environment on AWS EC2
 - [setup_aws_cpu.md](setup_aws_cpu.md)
 
+## Useful Tools
+- SSH Terminal: [MobaXterm](https://mobaxterm.mobatek.net/)
+
 ## Useful Links for Developing LLM-based Chat AI
 - [Hugging Face](https://huggingface.co/)
 - [unsloth](https://unsloth.ai/)
