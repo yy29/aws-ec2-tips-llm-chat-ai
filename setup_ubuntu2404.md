@@ -1,4 +1,4 @@
-## AWS EC2 Tips for Setting Up an LLM-based Chat AI with Minimal Cost
+## AWS EC2 Tips for Setting Up an LLM-based Chat AI
 
 ### (1) [AWS](https://aws.amazon.com/) EC2 Instance Creation
 - Region: Your choice
@@ -8,9 +8,8 @@
 - Key Pairs: Create your key pairs and save private key file
 - EBS Storage: gp3, Volume: 100GB, IOPS: 3000, Throughput: 125
 - Security Group: Create one with specs below
-  - Inbound rule 1: SSH, TCP, Port: 22, Source: YOUR_IP_ADDRESS
-  - Inbound rule 2: Custom TCP, TCP, Port: 7860, Source: YOUR_IP_ADDRESS
-  - Outbound rule 1: All Traffic, All, Port: All, Destination: 0.0.0.0/0
+  - Inbound rule 1: Type: All traffic, Source: My IP
+  - Outbound rule 1: Type: All traffic, Destination: Anywhere-IPv4
 
 ### (2) Connect to Instance
 - Run SSH tool (Putty or [MobaXterm](https://mobaxterm.mobatek.net/) etc.)
