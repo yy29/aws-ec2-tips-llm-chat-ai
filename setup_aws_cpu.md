@@ -7,8 +7,8 @@
 - Key Pairs: Create your key pairs and save private key file
 - EBS Storage: gp3, Volume: 20GB, IOPS: 3000, Throughput: 125
 - Security Group: Create one with specs below
-  - Inbound rule 1: SSH, TCP, Port: 22, Source: 0.0.0.0/0
-  - Outbound rule 1: All Traffic, All, Port: All, Destination: 0.0.0.0/0
+  - Inbound rule 1: Type: All traffic, Source: Anywhere-IPv4
+  - Outbound rule 1: Type: All traffic, Destination: Anywhere-IPv4
 
 ### (2) Connect to Instance
 - Run SSH tool (Putty or [MobaXterm](https://mobaxterm.mobatek.net/) etc.)
