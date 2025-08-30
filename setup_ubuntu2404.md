@@ -15,9 +15,15 @@
 ### (2) Connect to Instance
 - Run SSH tool (Putty or [MobaXterm](https://mobaxterm.mobatek.net/) etc.)
 - Create new SSH session with `Instance IP address, username: ubuntu, private key file` to connect to the instance
-- Do step (3)-(5) below in this SSH session.
+- Do step (3)-(6) below in this SSH session.
 
-### (3) Python Environment Setup
+### (3) Remove Unattended-upgrades to Prevent Surprise System Failures
+```
+sudo systemctl stop unattended-upgrades
+sudo apt remove unattended-upgrades
+```
+
+### (4) Python Environment Setup
 ```
 sudo apt update
 sudo apt install python3.12-venv
@@ -25,19 +31,19 @@ python3 -m venv my_venv3
 source my_venv3/bin/activate
 ```
 
-### (4) Git Clone [SimplyRetrieve](https://github.com/RCGAI/SimplyRetrieve.git) and Install Requirements
+### (5) Git Clone [SimplyRetrieve](https://github.com/RCGAI/SimplyRetrieve.git) and Install Requirements
 ```
 git clone https://github.com/RCGAI/SimplyRetrieve.git
 cd SimplyRetrieve
 pip install -r requirements.txt
 ```
 
-### (5) Run Chat AI
+### (6) Run Chat AI
 ```
 cd chat
 CUDA_VISIBLE_DEVICES=0 python chat.py --config configs/default_release.json
 ```
 
-### (6) Access Chat AI
+### (7) Access Chat AI
 - In browser (Chrome or Edge or etc.), access `<Instance IP address>:7860`
 - You are done! Should be able to see a Chat AI interface by now
