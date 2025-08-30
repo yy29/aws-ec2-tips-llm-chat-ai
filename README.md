@@ -1,7 +1,7 @@
-## AWS EC2 Tips for Setting Up an LLM-based Chat AI with Minimal Cost
-- [setup_ubuntu2404.md](setup_ubuntu2404.md)
-- [setup_ubuntu2204.md](setup_ubuntu2204.md)
-- [setup_ubuntu2004.md](setup_ubuntu2004.md)
+## AWS EC2 Tips for Setting Up an LLM-based Chat AI
+- Setup with Ubuntu 24.04 LTS: [setup_ubuntu2404.md](setup_ubuntu2404.md)
+- Setup with Ubuntu 22.04 LTS: [setup_ubuntu2204.md](setup_ubuntu2204.md)
+- Setup with Ubuntu 20.04 LTS: [setup_ubuntu2004.md](setup_ubuntu2004.md)
 
 ## Sample Setup for Ubuntu 22.04
 
