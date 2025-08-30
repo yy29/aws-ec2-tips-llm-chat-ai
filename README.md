@@ -4,7 +4,7 @@
 - Setup with Ubuntu 20.04 LTS: [setup_ubuntu2004.md](setup_ubuntu2004.md)
 
 ### Setting Up Python Development Environment on AWS EC2
-- [setup_aws_cpu.md](setup_aws_cpu.md)
+- [setup_aws_python.md](setup_aws_python.md)
 
 ### Setting Up Docker Environment on AWS EC2
 - [setup_aws_docker.md](setup_aws_docker.md)
