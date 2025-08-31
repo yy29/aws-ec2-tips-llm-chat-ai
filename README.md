@@ -22,9 +22,9 @@
 - g6: Nvidia L4
 - g5: Nvidia A10G
 - g4dn: Nvidia T4
-- P6: Nvidia B200
-- P5: Nvidia H100
-- P4: Nvidia A100
+- p6: Nvidia B200
+- p5: Nvidia H100
+- p4: Nvidia A100
 - m7a, m8i, m8g: General Purpose CPU
 - r7a, r8i, r8g: Memory Optimized CPU
 - c7a, c7i, c8g: Compute Optimized CPU
