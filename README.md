@@ -22,8 +22,8 @@
 - g5: NVIDIA A10G GPU (24GB)
 - g4dn: NVIDIA T4 GPU (16GB)
 - p6: NVIDIA B200 GPU (185GB)
-- p5: NVIDIA H100/H200 GPU (80GB, 141GB)
-- p4: NVIDIA A100 GPU (40GB, 80GB)
+- p5: NVIDIA H100/H200 GPU (80GB/141GB)
+- p4: NVIDIA A100 GPU (40GB/80GB)
 - m7a, m8i, m8g: General Purpose CPU
 - r7a, r8i, r8g: Memory Optimized CPU
 - c7a, c7i, c8g: Compute Optimized CPU
