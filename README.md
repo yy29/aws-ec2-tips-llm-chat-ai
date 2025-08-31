@@ -18,13 +18,13 @@
 - Cloud-based interactive python and GPU: [Google Colab](https://colab.research.google.com/)
 
 ### AWS Instance Types
-- g6e: Nvidia L40S
-- g6: Nvidia L4
-- g5: Nvidia A10G
-- g4dn: Nvidia T4
-- p6: Nvidia B200
-- p5: Nvidia H100
-- p4: Nvidia A100
+- g6e: Nvidia L40S GPU (48GB)
+- g6: Nvidia L4 GPU (24GB)
+- g5: Nvidia A10G GPU (24GB)
+- g4dn: Nvidia T4 GPU (16GB)
+- p6: Nvidia B200 GPU (185GB
+- p5: Nvidia H100 GPU (80GB, 141GB)
+- p4: Nvidia A100 GPU (40GB, 80GB)
 - m7a, m8i, m8g: General Purpose CPU
 - r7a, r8i, r8g: Memory Optimized CPU
 - c7a, c7i, c8g: Compute Optimized CPU
