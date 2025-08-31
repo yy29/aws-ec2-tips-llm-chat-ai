@@ -17,13 +17,13 @@
 - Cloud-based interactive python and GPU: [Google Colab](https://colab.research.google.com/)
 
 ### AWS Instance Types
-- g6e: Nvidia L40S GPU (48GB)
-- g6: Nvidia L4 GPU (24GB)
-- g5: Nvidia A10G GPU (24GB)
-- g4dn: Nvidia T4 GPU (16GB)
-- p6: Nvidia B200 GPU (185GB)
-- p5: Nvidia H100 GPU (80GB, 141GB)
-- p4: Nvidia A100 GPU (40GB, 80GB)
+- g6e: NVIDIA L40S GPU (48GB)
+- g6: NVIDIA L4 GPU (24GB)
+- g5: NVIDIA A10G GPU (24GB)
+- g4dn: NVIDIA T4 GPU (16GB)
+- p6: NVIDIA B200 GPU (185GB)
+- p5: NVIDIA H100 GPU (80GB, 141GB)
+- p4: NVIDIA A100 GPU (40GB, 80GB)
 - m7a, m8i, m8g: General Purpose CPU
 - r7a, r8i, r8g: Memory Optimized CPU
 - c7a, c7i, c8g: Compute Optimized CPU
@@ -31,11 +31,11 @@
 - t3, t4g: Tiny CPU
 
 ### Useful Local GPU Machine Specs
-- Very high cost: Nvidia DGX Spark (128GB)
+- Very high cost: NVIDIA DGX Spark (128GB)
 - Very high cost: NVIDIA RTX PRO 5000 Blackwell (48GB)
-- High cost: Nvidia RTX 5090 (32GB)
+- High cost: NVIDIA RTX 5090 (32GB)
 - Medium cost: NVIDIA RTX PRO 4000 Blackwell (24GB)
-- Low cost: Nvidia 5060 Ti (16GB)
+- Low cost: NVIDIA RTX 5060 Ti (16GB)
 
 ### Useful Links for Developing LLM-based Chat AI
 - [Hugging Face](https://huggingface.co/)
