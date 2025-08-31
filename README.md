@@ -10,8 +10,9 @@
 - [setup_aws_docker.md](setup_aws_docker.md)
 
 ### Useful Tools
-- SSH Terminal: [MobaXterm](https://mobaxterm.mobatek.net/)
-- Interactive Python: [Jupyter Notebook](https://jupyter.org/)
+- SSH terminal: [MobaXterm](https://mobaxterm.mobatek.net/)
+- Interactive python: [Jupyter Notebook](https://jupyter.org/)
+- Cloud-based interactive python and GPU: [Google Colab](https://colab.research.google.com/)
 
 ### Useful Links for Developing LLM-based Chat AI
 - [Hugging Face](https://huggingface.co/)
