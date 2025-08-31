@@ -31,7 +31,8 @@
 - t3, t4g: Tiny CPU
 
 ### Useful Local GPU Machine Specs
-- Nvidia 5060 Ti 16GB
+- High cost: Nvidia DGX Spark
+- Low cost: Nvidia 5060 Ti 16GB
 
 ### Useful Links for Developing LLM-based Chat AI
 - [Hugging Face](https://huggingface.co/)
