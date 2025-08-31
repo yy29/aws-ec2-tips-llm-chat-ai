@@ -31,11 +31,11 @@
 - t3, t4g: Tiny CPU
 
 ### Useful Local GPU Machine Specs
-- Very high cost: Nvidia DGX Spark
-- Very high cost: NVIDIA RTX PRO 5000 Blackwell
-- High cost: Nvidia RTX 5090 32GB
-- Medium cost: NVIDIA RTX PRO 4000 Blackwell 24GB
-- Low cost: Nvidia 5060 Ti 16GB
+- Very high cost: Nvidia DGX Spark (128GB)
+- Very high cost: NVIDIA RTX PRO 5000 Blackwell (48GB)
+- High cost: Nvidia RTX 5090 (32GB)
+- Medium cost: NVIDIA RTX PRO 4000 Blackwell (24GB)
+- Low cost: Nvidia 5060 Ti (16GB)
 
 ### Useful Links for Developing LLM-based Chat AI
 - [Hugging Face](https://huggingface.co/)
