@@ -11,6 +11,7 @@
 
 ### Useful Tools
 - SSH Terminal: [MobaXterm](https://mobaxterm.mobatek.net/)
+- Interactive Python: [Jupyter Notebook](https://jupyter.org/)
 
 ### Useful Links for Developing LLM-based Chat AI
 - [Hugging Face](https://huggingface.co/)
