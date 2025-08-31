@@ -1,7 +1,6 @@
 ### Setup LLM-based Chat AI Apps on AWS EC2
-- Setup with Ubuntu 24.04 LTS: [setup_ubuntu2404.md](setup_ubuntu2404.md)
-- Setup with Ubuntu 22.04 LTS: [setup_ubuntu2204.md](setup_ubuntu2204.md)
-- Setup with Ubuntu 20.04 LTS: [setup_ubuntu2004.md](setup_ubuntu2004.md)
+- Setup with Ubuntu 24.04 LTS: [setup_aws_simplyretrieve_2404.md](setup_aws_simplyretrieve_2404.md)
+- Setup with Ubuntu 22.04 LTS: [setup_aws_simplyretrieve_2204.md](setup_aws_simplyretrieve_2204.md)
 
 ### Setup Machine Learning Development Environment on AWS EC2
 - [setup_aws_gpu.md](setup_aws_gpu.md)
