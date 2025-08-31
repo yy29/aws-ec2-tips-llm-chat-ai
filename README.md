@@ -31,7 +31,9 @@
 - t3, t4g: Tiny CPU
 
 ### Useful Local GPU Machine Specs
-- High cost: Nvidia DGX Spark
+- Very high cost: Nvidia DGX Spark
+- Very high cost: NVIDIA RTX PRO 5000 Blackwell
+- High cost: Nvidia RTX 5090 32GB
 - Medium cost: NVIDIA RTX PRO 4000 Blackwell 24GB
 - Low cost: Nvidia 5060 Ti 16GB
 
