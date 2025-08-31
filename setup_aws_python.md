@@ -7,7 +7,7 @@
 - Key Pairs: Create your key pairs and save private key file
 - EBS Storage: gp3, Volume: 20GB, IOPS: 3000, Throughput: 125
 - Security Group: Create one with specs below
-  - Inbound rule 1: Type: All traffic, Source: Anywhere-IPv4
+  - Inbound rule 1: Type: All traffic, Source: My IP
   - Outbound rule 1: Type: All traffic, Destination: Anywhere-IPv4
 
 ### (2) Connect to Instance
