@@ -1,4 +1,4 @@
-## Setup Low Cost CPU Only Python Development Environment in AWS EC2
+## Setup Low Cost CPU Only Python Development Environment on AWS EC2
 
 ### (1) [AWS](https://aws.amazon.com/) EC2 Instance Creation
 - Region: Your choice
