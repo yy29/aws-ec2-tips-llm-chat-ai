@@ -22,7 +22,7 @@
 - g6: Nvidia L4 GPU (24GB)
 - g5: Nvidia A10G GPU (24GB)
 - g4dn: Nvidia T4 GPU (16GB)
-- p6: Nvidia B200 GPU (185GB
+- p6: Nvidia B200 GPU (185GB)
 - p5: Nvidia H100 GPU (80GB, 141GB)
 - p4: Nvidia A100 GPU (40GB, 80GB)
 - m7a, m8i, m8g: General Purpose CPU
