@@ -32,6 +32,7 @@
 
 ### Useful Local GPU Machine Specs
 - High cost: Nvidia DGX Spark
+- Medium cost: NVIDIA RTX PRO 4000 Blackwell 24GB
 - Low cost: Nvidia 5060 Ti 16GB
 
 ### Useful Links for Developing LLM-based Chat AI
