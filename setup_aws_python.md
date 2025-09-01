@@ -1,8 +1,8 @@
-## Setup Low Cost CPU Only Python Development Environment on AWS EC2
+## Setup Small Scale CPU Only Python Development Environment on AWS EC2
 
 ### (1) [AWS](https://aws.amazon.com/) EC2 Instance Creation
 - Region: Your choice
-- Instance: m7a.medium or m8g.medium or r8g.medium
+- Instance: m7a.medium / m8g.medium / r8g.medium
 - AMI Image: Ubuntu 24.04
 - Key Pairs: Create your key pairs and save private key file
 - EBS Storage: gp3, Volume: 20GB, IOPS: 3000, Throughput: 125
