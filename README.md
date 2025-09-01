@@ -42,7 +42,7 @@
 ### Useful Local AI Machine Specs
 - Very high cost: NVIDIA DGX Spark (128GB)
 
-### Useful Links for Developing LLM-based Chat AI
+### Useful Links for Developing LLM and Chat AI
 - [Hugging Face](https://huggingface.co/)
 - [unsloth](https://unsloth.ai/)
 - [NVIDIA NeMo](https://www.nvidia.com/en-us/ai-data-science/products/nemo/)
