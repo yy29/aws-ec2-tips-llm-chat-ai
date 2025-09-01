@@ -18,6 +18,11 @@
 - Interactive python: [Jupyter Notebook](https://jupyter.org/)
 - Cloud-based interactive python and GPU: [Google Colab](https://colab.research.google.com/)
 
+### Useful Sites for Developing LLM and Chat AI
+- [Hugging Face](https://huggingface.co/)
+- [unsloth](https://unsloth.ai/)
+- [NVIDIA NeMo](https://www.nvidia.com/en-us/ai-data-science/products/nemo/)
+
 ### AWS Instance Types
 - p6: NVIDIA B200 GPU (185GB)
 - p5: NVIDIA H100/H200 GPU (80GB/141GB)
@@ -41,8 +46,3 @@
 
 ### Useful Local AI Machine Specs
 - Very high cost: NVIDIA DGX Spark (128GB)
-
-### Useful Links for Developing LLM and Chat AI
-- [Hugging Face](https://huggingface.co/)
-- [unsloth](https://unsloth.ai/)
-- [NVIDIA NeMo](https://www.nvidia.com/en-us/ai-data-science/products/nemo/)
