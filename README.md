@@ -5,6 +5,7 @@
 ### Setup Machine Learning Development Environment on AWS EC2
 - Small scale instance: [setup_aws_gpu.md](setup_aws_gpu.md)
 - Medium scale instance: [setup_aws_gpu_multi.md](setup_aws_gpu_multi.md)
+- Large scale instance: [setup_aws_gpu_high.md](setup_aws_gpu_high.md)
 
 ### Setup Python Development Environment on AWS EC2
 - [setup_aws_python.md](setup_aws_python.md)
