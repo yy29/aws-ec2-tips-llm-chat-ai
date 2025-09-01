@@ -2,11 +2,9 @@
 - Setup with Ubuntu 24.04 LTS: [setup_aws_simplyretrieve_2404.md](setup_aws_simplyretrieve_2404.md)
 - Setup with Ubuntu 22.04 LTS: [setup_aws_simplyretrieve_2204.md](setup_aws_simplyretrieve_2204.md)
 
-### Setup Small Scale Machine Learning Development Environment on AWS EC2
-- [setup_aws_gpu.md](setup_aws_gpu.md)
-
-### Setup Medium Scale Machine Learning Development Environment on AWS EC2
-- [setup_aws_gpu_multi.md](setup_aws_gpu_multi.md)
+### Setup Machine Learning Development Environment on AWS EC2
+- Small scale instance: [setup_aws_gpu.md](setup_aws_gpu.md)
+- Medium scale instance: [setup_aws_gpu_multi.md](setup_aws_gpu_multi.md)
 
 ### Setup Python Development Environment on AWS EC2
 - [setup_aws_python.md](setup_aws_python.md)
