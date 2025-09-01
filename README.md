@@ -3,7 +3,7 @@
 - Setup with Ubuntu 22.04 LTS: [setup_aws_simplyretrieve_2204.md](setup_aws_simplyretrieve_2204.md)
 
 ### Setup Machine Learning Development Environment on AWS EC2
-- Small scale instance: [setup_aws_gpu.md](setup_aws_gpu.md)
+- Small scale instance: [setup_aws_gpu_single.md](setup_aws_gpu_single.md)
 - Medium scale instance: [setup_aws_gpu_multi.md](setup_aws_gpu_multi.md)
 - Large scale instance: [setup_aws_gpu_high.md](setup_aws_gpu_high.md)
 
