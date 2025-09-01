@@ -1,4 +1,4 @@
-## Setup Machine Learning Development Environment on AWS EC2
+## Setup Small Scale Machine Learning Development Environment on AWS EC2
 
 ### (1) [AWS](https://aws.amazon.com/) EC2 Instance Creation
 - Region: Your choice
