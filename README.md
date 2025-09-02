@@ -1,5 +1,5 @@
 ### Setup AI & Machine Learning Development Environment on AWS EC2
-- Small scale instance: [setup_aws_gpu_single.md](setup_aws_gpu_single.md) (for finetuning and traditional deep learning)
+- Small scale instance: [setup_aws_gpu_single.md](setup_aws_gpu_single.md) (for inferencing, finetuning and traditional deep learning)
 - Medium scale instance: [setup_aws_gpu_multi.md](setup_aws_gpu_multi.md) (For small scale models pretraining and finetuning)
 - Large scale instance: [setup_aws_gpu_high.md](setup_aws_gpu_high.md) (For large language & vision models pretraining)
 
