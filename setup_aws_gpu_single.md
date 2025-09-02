@@ -34,12 +34,15 @@ sudo useradd -m -s /bin/bash <username>
 echo "username:newpassword123" | sudo chpasswd
 ```
 
-### (6) Inhibit Long Welcome Screen in SSH Terminal for Non-root User
+### (6) Setup Non-root User Environment
+Run the following in non-root user's SSH terminal.
+
+#### Inhibit Long Welcome Screen in SSH Terminal
 ```
 touch ~/.hushlogin
 ```
 
-### (7) Setup Python Virtual Environment
+#### Setup Python Virtual Environment
 ```
 python3 -m venv my_venv3
 source my_venv3/bin/activate
