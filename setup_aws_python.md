@@ -21,11 +21,29 @@ sudo systemctl stop unattended-upgrades
 sudo apt remove unattended-upgrades
 ```
 
-### (4) Python Environment Setup
+### (4) Install Necessary Packages
 ```
 sudo apt update
 sudo apt install python3-pip
 sudo apt install python3.12-venv
+```
+
+### (5) Create Non-root User with Password
+```
+sudo useradd -m -s /bin/bash <username>
+echo "username:newpassword123" | sudo chpasswd
+```
+
+### (6) Setup Non-root User Environment
+Run the following in non-root user's SSH terminal.
+
+#### Inhibit Long Welcome Screen in SSH Terminal
+```
+touch ~/.hushlogin
+```
+
+#### Setup Python Virtual Environment
+```
 python3 -m venv my_venv3
 source my_venv3/bin/activate
 ```
