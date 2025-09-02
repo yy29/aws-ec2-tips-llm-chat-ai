@@ -14,7 +14,7 @@
 ### (2) Connect to Instance
 - Run SSH tool (Putty or [MobaXterm](https://mobaxterm.mobatek.net/) etc.)
 - Create new SSH session with `Instance IP address, username: ubuntu, private key file` to connect to the instance
-- Do step (3)-(6) below in this SSH session.
+- Do steps below in this SSH session.
 
 ### (3) Remove Unattended-upgrades to Prevent Surprise System Failures
 ```
