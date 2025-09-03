@@ -10,6 +10,7 @@
 - Security Group: Create one with specs below
   - Inbound rule 1: Type: All traffic, Source: My IP
   - Outbound rule 1: Type: All traffic, Destination: Anywhere-IPv4
+- Note: This AMI Image comes preinstalled with Docker and Nvidia-docker2
 
 ### (2) Connect to Instance
 - Run SSH tool (Putty or [MobaXterm](https://mobaxterm.mobatek.net/) etc.)
