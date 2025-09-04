@@ -23,7 +23,7 @@
 - [unsloth](https://unsloth.ai/)
 - [NVIDIA NeMo](https://www.nvidia.com/en-us/ai-data-science/products/nemo/)
 
-### AWS Instance Types
+### EC2 Instance Types and Info
 - p6: NVIDIA B200 GPU (185GB)
 - p5: NVIDIA H100/H200 GPU (80GB/141GB)
 - p4: NVIDIA A100 GPU (40GB/80GB)
