@@ -6,4 +6,5 @@
 - Low cost: NVIDIA RTX 5060 Ti (16GB)
 
 ### Useful Local AI Machine Specs
+- Ultra high cost: NVIDIA DGX Station (288GB)
 - Very high cost: NVIDIA DGX Spark (128GB)
