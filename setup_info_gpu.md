@@ -13,3 +13,7 @@
 - NVIDIA DGX H200 System (1128GB) ([info](https://www.nvidia.com/en-us/data-center/dgx-h200/?ncid=no-ncid))
 - NVIDIA DGX B200 System (1440GB) ([info](https://www.nvidia.com/en-us/data-center/dgx-b200/?ncid=no-ncid))
 - NVIDIA DGX B300 System (2300GB) ([info](https://www.nvidia.com/en-us/data-center/dgx-b300/?ncid=no-ncid))
+
+### Rack-scale Enterprise AI System Specs
+- NVIDIA DGX GB200 System ([info](https://www.nvidia.com/en-us/data-center/dgx-gb200/?ncid=no-ncid))
+- NVIDIA DGX GB300 System ([info](https://www.nvidia.com/en-us/data-center/dgx-gb300/?ncid=no-ncid))
