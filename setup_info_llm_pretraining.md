@@ -1,4 +1,4 @@
-## LLM Pretraining
+## LLM Pretraining Strategy
 
 #### Pretraining datasets available on Huggingface
 - [allenai/c4](https://huggingface.co/datasets/allenai/c4) (12.7TB with 305GB for en)
