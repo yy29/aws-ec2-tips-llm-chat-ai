@@ -20,7 +20,7 @@
 - Dataset preprocessing and streaming: [Huggingface Datasets](https://huggingface.co/docs/datasets/en/index)
 - Model and tokenizer initialization: [Huggingface Transformers](https://huggingface.co/docs/transformers/en/index)
 - Training framework: [Huggingface Trainer](https://huggingface.co/docs/transformers/en/main_classes/trainer)
-- Multi-GPU setting: [Accelerate](https://huggingface.co/docs/accelerate/en/index)
+- Multi-GPU setting: [Accelerate](https://huggingface.co/docs/accelerate/en/index) (torch.distributed)
 
 #### Hardwares and OS for pretraining
 - Recommended: 8 x NVIDIA H200 GPU (141GB)
