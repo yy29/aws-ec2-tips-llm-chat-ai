@@ -17,5 +17,6 @@
 
 #### Pretraining framework
 - Dataset preprocessing and streaming: [Huggingface Datasets](https://huggingface.co/docs/datasets/en/index)
+- Model and tokenizer initialization: [Huggingface Transformers](https://huggingface.co/docs/transformers/en/index)
 - Training framework: [Huggingface Trainer](https://huggingface.co/docs/transformers/en/main_classes/trainer)
 - Multi-GPU setting: [Accelerate](https://huggingface.co/docs/accelerate/en/index)
