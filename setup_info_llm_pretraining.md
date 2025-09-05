@@ -20,3 +20,8 @@
 - Model and tokenizer initialization: [Huggingface Transformers](https://huggingface.co/docs/transformers/en/index)
 - Training framework: [Huggingface Trainer](https://huggingface.co/docs/transformers/en/main_classes/trainer)
 - Multi-GPU setting: [Accelerate](https://huggingface.co/docs/accelerate/en/index)
+
+#### Hardwares and OS for pretraining
+- Recommended: 8 x NVIDIA H200 GPU (141GB)
+- Acceptable: 8 x NVIDIA A100 GPU (80GB)
+- OS: Ubuntu 24.04 LTS
