@@ -6,7 +6,7 @@
 - [HuggingFaceFW/fineweb-edu](https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu) (10.4TB)
 - [EleutherAI/pile](https://huggingface.co/datasets/EleutherAI/pile) (825GB)
 
-#### Tokenization architecture recommended
+#### Tokenization architecture recommended and used in major models
 - [Byte-Pair Encoding](https://huggingface.co/learn/llm-course/en/chapter6/5)
 
 #### Model architectures suitable for pretraininng from scratch
