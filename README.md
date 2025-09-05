@@ -13,7 +13,7 @@
 ### Setup: Docker Environment on AWS EC2
 - [setup_aws_docker.md](setup_aws_docker.md)
 
-### Info: Pretraining Billion-scale LLM
+### Manual: Pretraining Billion-scale LLM
 - [setup_info_llm_pretraining.md](setup_info_llm_pretraining.md)
 
 ### Info: Useful Tools
