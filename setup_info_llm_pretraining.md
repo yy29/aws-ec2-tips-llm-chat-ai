@@ -13,6 +13,7 @@
 - [GPT-2](https://huggingface.co/docs/transformers/en/model_doc/gpt2)
 - [GPT-Neo](https://huggingface.co/docs/transformers/en/model_doc/gpt_neo)
 - [Llama 2](https://huggingface.co/docs/transformers/en/model_doc/llama2)
+- [Mistral](https://huggingface.co/docs/transformers/en/model_doc/mistral)
 
 #### Pretraining framework
 - Dataset preprocessing and streaming: [Huggingface Datasets](https://huggingface.co/docs/datasets/en/index)
