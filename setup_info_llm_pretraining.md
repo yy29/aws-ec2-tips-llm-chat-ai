@@ -15,6 +15,6 @@
 - [Llama 2](https://huggingface.co/docs/transformers/en/model_doc/llama2)
 
 #### Pretraining framework
-- Dataset Preprocessing: [Huggingface Datasets](https://huggingface.co/docs/datasets/en/index)
+- Dataset preprocessing and streaming: [Huggingface Datasets](https://huggingface.co/docs/datasets/en/index)
 - Training framework: [Huggingface Trainer](https://huggingface.co/docs/transformers/en/main_classes/trainer)
-- Multi-GPU Setting: [Accelerate](https://huggingface.co/docs/accelerate/en/index)
+- Multi-GPU setting: [Accelerate](https://huggingface.co/docs/accelerate/en/index)
