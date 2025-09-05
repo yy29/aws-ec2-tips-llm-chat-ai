@@ -25,4 +25,6 @@
 #### Hardwares and OS for pretraining
 - Recommended: 8 x NVIDIA H200 SXM GPU (141GB)
 - Acceptable: 8 x NVIDIA A100 SXM GPU (80GB)
+- If you are rich: 8 x NVIDIA Blackwell GPU (192GB)
+- If you are rich: 8 x NVIDIA Blackwell Ultra GPU (288GB)
 - OS: Ubuntu 24.04 LTS
