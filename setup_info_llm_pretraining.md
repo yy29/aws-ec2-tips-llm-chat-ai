@@ -1,10 +1,10 @@
 ## LLM Pretraining
 
 #### Pretraining datasets available on Huggingface
-- [allenai/c4](https://huggingface.co/datasets/allenai/c4)
-- [HuggingFaceFW/fineweb](https://huggingface.co/datasets/HuggingFaceFW/fineweb)
-- [HuggingFaceFW/fineweb-edu](https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu)
-- [EleutherAI/pile](https://huggingface.co/datasets/EleutherAI/pile)
+- [allenai/c4](https://huggingface.co/datasets/allenai/c4) (12.7TB with 305GB for en)
+- [HuggingFaceFW/fineweb](https://huggingface.co/datasets/HuggingFaceFW/fineweb) (108TB)
+- [HuggingFaceFW/fineweb-edu](https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu) (10.4TB)
+- [EleutherAI/pile](https://huggingface.co/datasets/EleutherAI/pile) (825GB)
 
 #### Tokenization architecture recommended
 - [Byte-Pair Encoding](https://huggingface.co/learn/llm-course/en/chapter6/5)
