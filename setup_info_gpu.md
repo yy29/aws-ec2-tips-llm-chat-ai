@@ -5,7 +5,7 @@
 - Medium cost: NVIDIA RTX PRO 4000 Blackwell (24GB)
 - Low cost: NVIDIA RTX 5060 Ti (16GB)
 
-### Local AI Machine Specs
+### Personal AI Machine Specs
 - NVIDIA DGX Spark (128GB) ([info](https://www.nvidia.com/en-us/products/workstations/dgx-spark/))
 - NVIDIA DGX Station (288GB) ([info](https://www.nvidia.com/en-us/products/workstations/dgx-station/))
 
