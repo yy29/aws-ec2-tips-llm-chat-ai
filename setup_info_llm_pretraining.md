@@ -23,8 +23,8 @@
 - Multi-GPU setting: [Accelerate](https://huggingface.co/docs/accelerate/en/index) (torch.distributed)
 
 #### Hardwares and OS for pretraining
-- Recommended: 8 x NVIDIA H200 SXM GPU (141GB) ([NVIDIA DGX H200 System](https://www.nvidia.com/en-us/data-center/dgx-h200/?ncid=no-ncid))
-- Acceptable: 8 x NVIDIA A100 SXM GPU (80GB) ([NVIDIA DGX A100 System](https://docs.nvidia.com/dgx/dgxa100-user-guide/introduction-to-dgxa100.html))
-- If you are rich: 8 x NVIDIA Blackwell GPU (192GB) ([NVIDIA DGX B200 System](https://www.nvidia.com/en-us/data-center/dgx-b200/?ncid=no-ncid))
-- If you are rich: 8 x NVIDIA Blackwell Ultra GPU (288GB) ([NVIDIA DGX B300 System](https://www.nvidia.com/en-us/data-center/dgx-b300/?ncid=no-ncid))
+- Recommended: 8 x 141GB NVIDIA H200 SXM GPU ([NVIDIA DGX H200 System](https://www.nvidia.com/en-us/data-center/dgx-h200/?ncid=no-ncid))
+- Acceptable: 8 x 80GB NVIDIA A100 SXM GPU ([NVIDIA DGX A100 System](https://docs.nvidia.com/dgx/dgxa100-user-guide/introduction-to-dgxa100.html))
+- If you are rich: 8 x 192GB NVIDIA Blackwell GPU ([NVIDIA DGX B200 System](https://www.nvidia.com/en-us/data-center/dgx-b200/?ncid=no-ncid))
+- If you are rich: 8 x 288GB NVIDIA Blackwell Ultra GPU ([NVIDIA DGX B300 System](https://www.nvidia.com/en-us/data-center/dgx-b300/?ncid=no-ncid))
 - OS: Ubuntu 24.04 LTS
