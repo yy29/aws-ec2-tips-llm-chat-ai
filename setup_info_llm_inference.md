@@ -12,3 +12,6 @@
 
 #### AI Oriented UI
 - Open WebUI ([Github](https://github.com/open-webui/open-webui), [Website](https://openwebui.com/))
+
+#### AI System Development Platform
+- Dify ([Github](https://github.com/langgenius/dify/), [Website](https://dify.ai/))
