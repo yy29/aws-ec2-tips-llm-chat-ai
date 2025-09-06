@@ -1,5 +1,5 @@
 ## LLM Inferencing Strategy
 
 #### Cloud API
-- OpenAI
-- AWS Bedrock
+- OpenAI ([pricing](https://openai.com/api/pricing/))
+- AWS Bedrock ([pricing](https://aws.amazon.com/bedrock/pricing/))
