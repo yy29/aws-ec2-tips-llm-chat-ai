@@ -17,7 +17,7 @@
 - [Qwen3](https://huggingface.co/docs/transformers/en/model_doc/qwen3)
 
 #### Loss function recommended and used in major models
-- Next token prediction with cross-entropy loss
+- Next token prediction with cross-entropy loss (LabelSmoother function in [code](https://github.com/huggingface/transformers/blob/main/src/transformers/trainer_pt_utils.py))
 
 #### Pretraining framework
 - Dataset preprocessing and streaming: [Huggingface Datasets](https://huggingface.co/docs/datasets/en/index)
