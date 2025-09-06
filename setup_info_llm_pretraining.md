@@ -9,6 +9,10 @@
 #### Tokenization architecture recommended and used in major models
 - [Byte-Pair Encoding](https://huggingface.co/learn/llm-course/en/chapter6/5)
 
+#### Position embedding
+- Absolute position embedding
+- Rotary position embedding
+
 #### Model architectures suitable for pretraininng from scratch
 - [GPT-2](https://huggingface.co/docs/transformers/en/model_doc/gpt2)
 - [GPT-Neo](https://huggingface.co/docs/transformers/en/model_doc/gpt_neo)
