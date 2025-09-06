@@ -40,5 +40,5 @@
 - i7i, i8g: Storage Optimized CPU
 - t3, t4g: Tiny CPU
 
-### Useful GPU Specs and Info
+### Info: Useful AI Machine and GPU Specs
 - [setup_info_gpu.md](setup_info_gpu.md)
