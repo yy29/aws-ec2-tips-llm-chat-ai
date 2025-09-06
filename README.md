@@ -10,7 +10,7 @@
 ### Setup: Python Development Environment on AWS EC2
 - [setup_aws_python.md](setup_aws_python.md)
 
-### Setup: Docker Environment on AWS EC2
+### Setup: Container Development Environment on AWS EC2
 - [setup_aws_docker.md](setup_aws_docker.md)
 
 ### Manual: LLM Pretraining
