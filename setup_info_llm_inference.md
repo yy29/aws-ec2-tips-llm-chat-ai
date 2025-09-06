@@ -6,3 +6,6 @@
 
 #### Cloud GPU Machine
 - AWS EC2
+
+#### AI Oriented UI
+- Open WebUI [Github](https://github.com/open-webui/open-webui), [Homepage](https://openwebui.com/)
