@@ -13,8 +13,11 @@
 ### Setup: Docker Environment on AWS EC2
 - [setup_aws_docker.md](setup_aws_docker.md)
 
-### Manual: Pretraining Billion-scale LLM
+### Manual: Billion-scale LLM Pretraining
 - [setup_info_llm_pretraining.md](setup_info_llm_pretraining.md)
+
+### Manual: LLM Inferencing
+- [setup_info_llm_inference.md](setup_info_llm_inference.md)
 
 ### Info: Useful Tools
 - SSH terminal: [MobaXterm](https://mobaxterm.mobatek.net/)
