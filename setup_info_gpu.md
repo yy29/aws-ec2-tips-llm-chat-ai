@@ -17,3 +17,12 @@
 ### Rack-scale Enterprise AI System Specs
 - NVIDIA DGX GB200 System ([info](https://www.nvidia.com/en-us/data-center/dgx-gb200/?ncid=no-ncid))
 - NVIDIA DGX GB300 System ([info](https://www.nvidia.com/en-us/data-center/dgx-gb300/?ncid=no-ncid))
+
+### Cloud AI Machine Specs
+- AWS EC2 p6: NVIDIA B200 GPU (185GB)
+- AWS EC2 p5: NVIDIA H100/H200 GPU (80GB/141GB)
+- AWS EC2 p4: NVIDIA A100 GPU (40GB/80GB)
+- AWS EC2 g6e: NVIDIA L40S GPU (48GB)
+- AWS EC2 g6: NVIDIA L4 GPU (24GB)
+- AWS EC2 g5: NVIDIA A10G GPU (24GB)
+- AWS EC2 g4dn: NVIDIA T4 GPU (16GB)
