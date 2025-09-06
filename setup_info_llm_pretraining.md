@@ -12,7 +12,7 @@
 #### Model architectures suitable for pretraininng from scratch
 - [GPT-2](https://huggingface.co/docs/transformers/en/model_doc/gpt2)
 - [GPT-Neo](https://huggingface.co/docs/transformers/en/model_doc/gpt_neo)
-- [Llama 2](https://huggingface.co/docs/transformers/en/model_doc/llama2)
+- [Llama2 and Llama3](https://huggingface.co/docs/transformers/en/model_doc/llama2)
 - [Mistral](https://huggingface.co/docs/transformers/en/model_doc/mistral)
 - [Qwen3](https://huggingface.co/docs/transformers/en/model_doc/qwen3)
 
