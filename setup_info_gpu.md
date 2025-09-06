@@ -19,11 +19,17 @@
 - NVIDIA DGX GB300 System ([info](https://www.nvidia.com/en-us/data-center/dgx-gb300/?ncid=no-ncid))
 
 ### Cloud AI Machine Specs
-- AWS EC2 p6: NVIDIA B200 GPU (185GB)
+- AWS EC2 p6: NVIDIA B200 GPU (180GB)
 - AWS EC2 p5: NVIDIA H100/H200 GPU (80GB/141GB)
 - AWS EC2 p4: NVIDIA A100 GPU (40GB/80GB)
 - AWS EC2 g6e: NVIDIA L40S GPU (48GB)
 - AWS EC2 g6: NVIDIA L4 GPU (24GB)
 - AWS EC2 g5: NVIDIA A10G GPU (24GB)
 - AWS EC2 g4dn: NVIDIA T4 GPU (16GB)
+- Google Cloud Compute Engine A4X: NVIDIA B200 GPU (180GB)
+- Google Cloud Compute Engine A4: NVIDIA B200 GPU (180GB)
+- Google Cloud Compute Engine A3: NVIDIA H100/H200 GPU (80GB/141GB)
+- Google Cloud Compute Engine A2: NVIDIA A100 GPU (40GB/80GB)
+- Google Cloud Compute Engine G4: NVIDIA RTX PRO 6000 Blackwell (96GB)
+- Google Cloud Compute Engine G2: NVIDIA L4 GPU (24GB)
 - NVIDIA DGX Cloud
