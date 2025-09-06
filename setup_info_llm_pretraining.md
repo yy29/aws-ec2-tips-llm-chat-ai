@@ -16,6 +16,9 @@
 - [Mistral](https://huggingface.co/docs/transformers/en/model_doc/mistral)
 - [Qwen3](https://huggingface.co/docs/transformers/en/model_doc/qwen3)
 
+#### Loss function recommended and used in major models
+- Next token prediction loss
+
 #### Pretraining framework
 - Dataset preprocessing and streaming: [Huggingface Datasets](https://huggingface.co/docs/datasets/en/index)
 - Model and tokenizer initialization: [Huggingface Transformers](https://huggingface.co/docs/transformers/en/index)
