@@ -1,4 +1,4 @@
-### Local GPU Specs
+### Personal GPU Specs
 - Ultra high cost: NVIDIA RTX PRO 6000 Blackwell (96GB)
 - Very high cost: NVIDIA RTX PRO 5000 Blackwell (48GB)
 - High cost: NVIDIA RTX 5090 (32GB)
