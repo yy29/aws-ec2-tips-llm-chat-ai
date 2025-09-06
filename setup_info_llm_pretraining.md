@@ -11,7 +11,7 @@
 
 #### Position embedding
 - Absolute position embedding
-- Rotary position embedding
+- Rotary position embedding (RoPE)
 
 #### Model architectures suitable for pretraininng from scratch
 - [GPT-2](https://huggingface.co/docs/transformers/en/model_doc/gpt2)
