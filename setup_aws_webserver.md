@@ -49,7 +49,7 @@ services:
       - db_data:/var/lib/mysql # Persistent storage for database data
 
 volumes:
-  db_data:
+  db_data: # Define a named volume for MariaDB data
 ```
 
 3. nginx.conf:
