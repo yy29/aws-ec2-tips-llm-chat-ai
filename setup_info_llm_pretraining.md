@@ -23,6 +23,9 @@
 #### Loss function recommended and used in major models
 - Next token prediction with cross-entropy loss and optional label smoothing (LabelSmoother function in [code](https://github.com/huggingface/transformers/blob/main/src/transformers/trainer_pt_utils.py))
 
+#### Optimizer recommended and used in major models
+- AdamW
+
 #### Pretraining framework
 - Dataset preprocessing and streaming: [Huggingface Datasets](https://huggingface.co/docs/datasets/en/index)
 - Model and tokenizer initialization: [Huggingface Transformers](https://huggingface.co/docs/transformers/en/index)
