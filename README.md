@@ -24,7 +24,7 @@
 - Interactive python: [Jupyter Notebook](https://jupyter.org/)
 - Cloud-based interactive python and GPU: [Google Colab](https://colab.research.google.com/)
 
-### Info: Useful Sites for Developing LLM and Chat AI
+### Info: Useful Sites for Developing LLM
 - [Hugging Face](https://huggingface.co/)
 - [unsloth](https://unsloth.ai/)
 - [NVIDIA NeMo](https://www.nvidia.com/en-us/ai-data-science/products/nemo/)
