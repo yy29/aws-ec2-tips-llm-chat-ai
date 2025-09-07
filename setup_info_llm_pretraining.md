@@ -17,7 +17,9 @@
 - [GPT-2](https://huggingface.co/docs/transformers/en/model_doc/gpt2)
 - [GPT-Neo](https://huggingface.co/docs/transformers/en/model_doc/gpt_neo)
 - [Llama2 and Llama3](https://huggingface.co/docs/transformers/en/model_doc/llama2)
+- [Gemma2](https://huggingface.co/docs/transformers/main/en/model_doc/gemma2)
 - [Mistral](https://huggingface.co/docs/transformers/en/model_doc/mistral)
+- [Mixtral](https://huggingface.co/docs/transformers/main/en/model_doc/mixtral)
 - [Qwen3](https://huggingface.co/docs/transformers/en/model_doc/qwen3)
 
 #### Loss function recommended and used in major models
