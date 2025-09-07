@@ -16,28 +16,30 @@ version: '1.0'
 services:
   wordpress:
     image: wordpress:fpm-alpine # Using FPM-Alpine for a smaller image
+    restart: always
     environment:
       WORDPRESS_DB_HOST: mariadb
       WORDPRESS_DB_NAME: wordpress_db
       WORDPRESS_DB_USER: wordpress_user
       WORDPRESS_DB_PASSWORD: your_db_password # Replace with a strong password
     volumes:
-      - ./www:/var/www/html
+      - ./www/:/var/www/html/
     depends_on:
       - mariadb
 
   nginx:
     image: nginx:stable-alpine # Using Alpine for a smaller image
+    restart: always
     ports:
       - "80:80"
     volumes:
       - ./nginx.conf:/etc/nginx/conf.d/default.conf # Custom Nginx config
-      - ./www:/var/www/html
     depends_on:
       - wordpress
 
   mariadb:
     image: mariadb:latest
+    restart: always
     environment:
       MARIADB_ROOT_PASSWORD: your_root_password # Replace with a strong password
       MARIADB_DATABASE: wordpress_db
