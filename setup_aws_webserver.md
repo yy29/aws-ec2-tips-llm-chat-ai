@@ -1,3 +1,5 @@
+# Application Web Server Creation
+
 A docker-compose.yml file can be created to deploy a WordPress environment with Nginx and MariaDB using Docker Compose. This setup involves three services: wordpress, nginx, and mariadb.
 
 1. Directory Structure:
