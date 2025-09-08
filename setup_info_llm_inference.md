@@ -3,6 +3,7 @@
 #### Cloud Model and API
 - OpenAI ([pricing](https://openai.com/api/pricing/))
 - AWS Bedrock ([pricing](https://aws.amazon.com/bedrock/pricing/))
+- Google AI Studio
 
 #### Self-hosted Model and API
 - Ollama ([Github](https://github.com/ollama/ollama), [Website](https://ollama.com/))
