@@ -33,5 +33,5 @@
 ### Info: EC2 Instance Types and Info
 - [setup_info_aws.md](setup_info_aws.md)
 
-### Info: Useful AI Machine and GPU Specs
+### Info: AI Machine and GPU Specs and Info
 - [setup_info_gpu.md](setup_info_gpu.md)
