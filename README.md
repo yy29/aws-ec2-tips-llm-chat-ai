@@ -19,6 +19,12 @@
 ### Manual: LLM Inferencing
 - [setup_info_llm_inference.md](setup_info_llm_inference.md)
 
+### Info: EC2 Instance Types and Info
+- [setup_info_aws.md](setup_info_aws.md)
+
+### Info: AI Machine and GPU Specs and Info
+- [setup_info_gpu.md](setup_info_gpu.md)
+
 ### Info: Useful Tools
 - SSH terminal: [MobaXterm](https://mobaxterm.mobatek.net/)
 - Interactive python: [Jupyter Notebook](https://jupyter.org/)
@@ -29,9 +35,3 @@
 - [unsloth](https://unsloth.ai/)
 - [NVIDIA NeMo](https://www.nvidia.com/en-us/ai-data-science/products/nemo/)
 - [Weights and Bianses](https://wandb.ai/site)
-
-### Info: EC2 Instance Types and Info
-- [setup_info_aws.md](setup_info_aws.md)
-
-### Info: AI Machine and GPU Specs and Info
-- [setup_info_gpu.md](setup_info_gpu.md)
