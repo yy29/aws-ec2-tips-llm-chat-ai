@@ -26,6 +26,7 @@ sudo apt remove unattended-upgrades
 sudo apt update
 sudo apt install python3-pip
 sudo apt install python3.12-venv
+sudo apt install unzip
 ```
 
 ### (5) Create Non-root User with Password
