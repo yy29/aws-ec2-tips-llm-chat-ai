@@ -25,7 +25,7 @@
 ### Info: AI Machine and GPU Specs and Info
 - [setup_info_gpu.md](setup_info_gpu.md)
 
-### Info: Useful Tools
+### Info: Development Tools
 - SSH terminal: [MobaXterm](https://mobaxterm.mobatek.net/)
 - Interactive python: [Jupyter Notebook](https://jupyter.org/)
 - Cloud-based interactive python and GPU: [Google Colab](https://colab.research.google.com/)
