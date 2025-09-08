@@ -31,18 +31,7 @@
 - [Weights and Bianses](https://wandb.ai/site)
 
 ### Info: EC2 Instance Types and Info
-- p6: NVIDIA B200 GPU (185GB)
-- p5: NVIDIA H100/H200 GPU (80GB/141GB)
-- p4: NVIDIA A100 GPU (40GB/80GB)
-- g6e: NVIDIA L40S GPU (48GB)
-- g6: NVIDIA L4 GPU (24GB)
-- g5: NVIDIA A10G GPU (24GB)
-- g4dn: NVIDIA T4 GPU (16GB)
-- m7a, m8i, m8g: General Purpose CPU
-- r7a, r8i, r8g: Memory Optimized CPU
-- c7a, c7i, c8g: Compute Optimized CPU
-- i7i, i8g: Storage Optimized CPU
-- t3, t4g: Tiny CPU
+- [setup_info_aws.md](setup_info_aws.md)
 
 ### Info: Useful AI Machine and GPU Specs
 - [setup_info_gpu.md](setup_info_gpu.md)
