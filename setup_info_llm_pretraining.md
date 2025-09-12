@@ -55,3 +55,4 @@ Minimum formula: 1B parameters = 0.5 node
 - 70B LLM: 35 nodes of 8 x 141GB NVIDIA H200 SXM GPU
 - 120B LLM: 60 nodes of 8 x 141GB NVIDIA H200 SXM GPU
 - 300B LLM: 150 nodes of 8 x 141GB NVIDIA H200 SXM GPU
+- 700B LLM: 350 nodes of 8 x 141GB NVIDIA H200 SXM GPU
