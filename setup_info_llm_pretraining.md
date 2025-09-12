@@ -42,3 +42,10 @@
 - If you are rich: 8 x 180GB NVIDIA Blackwell GPU ([NVIDIA DGX B200 System](https://www.nvidia.com/en-us/data-center/dgx-b200/?ncid=no-ncid))
 - If you are very rich: 8 x 288GB NVIDIA Blackwell Ultra GPU ([NVIDIA DGX B300 System](https://www.nvidia.com/en-us/data-center/dgx-b300/?ncid=no-ncid))
 - OS: Ubuntu 24.04 LTS
+
+#### Pretraining hardward reference numbers
+- 1B-2B LLM: 1 node of 8 x 141GB NVIDIA H200 SXM GPU
+- 3B-4B LLM: 4 node of 8 x 141GB NVIDIA H200 SXM GPU
+- 7B-8B LLM: 12 node of 8 x 141GB NVIDIA H200 SXM GPU
+- 13B LLM: 24 node of 8 x 141GB NVIDIA H200 SXM GPU
+- 20B LLM: 48 node of 8 x 141GB NVIDIA H200 SXM GPU
