@@ -44,11 +44,12 @@
 - OS: Ubuntu 24.04 LTS
 
 #### Pretraining hardward reference numbers
+Recommended: 1B = 1 node, Minimum: 1B = 0.5 node
 - 1B-2B LLM: 1 node of 8 x 141GB NVIDIA H200 SXM GPU
 - 3B-4B LLM: 2 nodes of 8 x 141GB NVIDIA H200 SXM GPU
 - 7B-8B LLM: 4 nodes of 8 x 141GB NVIDIA H200 SXM GPU
-- 13B LLM: 8 nodes of 8 x 141GB NVIDIA H200 SXM GPU
-- 20B LLM: 12 nodes of 8 x 141GB NVIDIA H200 SXM GPU
-- 70B LLM: 32 nodes of 8 x 141GB NVIDIA H200 SXM GPU
-- 120B LLM: 64 nodes of 8 x 141GB NVIDIA H200 SXM GPU
-- 300B LLM: 250 nodes of 8 x 141GB NVIDIA H200 SXM GPU
+- 14B LLM: 7 nodes of 8 x 141GB NVIDIA H200 SXM GPU
+- 20B LLM: 10 nodes of 8 x 141GB NVIDIA H200 SXM GPU
+- 70B LLM: 35 nodes of 8 x 141GB NVIDIA H200 SXM GPU
+- 120B LLM: 60 nodes of 8 x 141GB NVIDIA H200 SXM GPU
+- 300B LLM: 150 nodes of 8 x 141GB NVIDIA H200 SXM GPU
