@@ -43,7 +43,7 @@
 - If you are very rich: 8 x 288GB NVIDIA Blackwell Ultra GPU ([NVIDIA DGX B300 System](https://www.nvidia.com/en-us/data-center/dgx-b300/?ncid=no-ncid))
 - OS: Ubuntu 24.04 LTS
 
-#### Number of GPUs needed for pretraining
+#### Number of GPUs needed for pretraining with acceptable performance
 Recommended: 1B = 1 node, Minimum: 1B = 0.5 node
 - 1B-2B LLM: 1 node of 8 x 141GB NVIDIA H200 SXM GPU
 - 3B-4B LLM: 2 nodes of 8 x 141GB NVIDIA H200 SXM GPU
