@@ -45,7 +45,8 @@
 
 #### Number of GPUs needed for pretraining with acceptable performance
 Condition: Expect training with 1 trillion tokens  
-Recommended formula: 1B parameters = 1 node, Minimum: 1B parameters = 0.5 node
+Recommended formula: 1B parameters = 1 node  
+Minimum formula: 1B parameters = 0.5 node
 - 1B-2B LLM: 1 node of 8 x 141GB NVIDIA H200 SXM GPU
 - 3B-4B LLM: 2 nodes of 8 x 141GB NVIDIA H200 SXM GPU
 - 7B-8B LLM: 4 nodes of 8 x 141GB NVIDIA H200 SXM GPU
