@@ -47,6 +47,7 @@
 - CoreWeave NVIDIA RTX PRO 6000 Blackwell Server Edition (96GB) ([info](https://www.coreweave.com/products/gpu-compute))
 - CoreWeave NVIDIA L40S (48GB) ([info](https://www.coreweave.com/products/gpu-compute))
 - CoreWeave NVIDIA L40 (48GB) ([info](https://www.coreweave.com/products/gpu-compute))
+- Nebius ([info](https://nebius.com/))
 - NVIDIA DGX Cloud ([info](https://www.nvidia.com/en-us/data-center/dgx-cloud/))
 - Google Colab ([info](https://colab.research.google.com/))
 
