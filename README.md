@@ -22,9 +22,6 @@
 ### Manual: LLM Inferencing
 - [setup_info_llm_inference.md](setup_info_llm_inference.md)
 
-### Info: EC2 Instance Types and Info
-- [setup_info_aws.md](setup_info_aws.md)
-
 ### Info: Development Tools
 - SSH terminal: [MobaXterm](https://mobaxterm.mobatek.net/)
 - Interactive python: [Jupyter Notebook](https://jupyter.org/)
