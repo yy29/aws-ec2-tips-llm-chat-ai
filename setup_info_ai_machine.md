@@ -51,8 +51,8 @@
 - Google Colab ([info](https://colab.research.google.com/))
 
 ### Cloud CPU Machine Specs
-- AWS EC2 m7a, m8i, m8g: General Purpose CPU
-- AWS EC2 r7a, r8i, r8g: Memory Optimized CPU
-- AWS EC2 c7a, c7i, c8g: Compute Optimized CPU
-- AWS EC2 i7i, i8g: Storage Optimized CPU
-- AWS EC2 t3, t4g: Tiny CPU
+- AWS EC2 m7a, m8i, m8g: General Purpose CPU ([info](https://aws.amazon.com/ec2/instance-types/m8i/))
+- AWS EC2 r7a, r8i, r8g: Memory Optimized CPU ([info](https://aws.amazon.com/ec2/instance-types/r8i/))
+- AWS EC2 c7a, c7i, c8g: Compute Optimized CPU ([info](https://aws.amazon.com/ec2/instance-types/c7i/))
+- AWS EC2 i7i, i8g: Storage Optimized CPU ([info](https://aws.amazon.com/ec2/instance-types/i7i/))
+- AWS EC2 t3, t4g: Tiny CPU ([info](https://aws.amazon.com/ec2/instance-types/t3/))
