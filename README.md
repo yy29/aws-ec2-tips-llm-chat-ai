@@ -1,5 +1,5 @@
 ### Info: AI Machine Specs and Info
-- [setup_info_gpu.md](setup_info_gpu.md)
+- [setup_info_ai_machine.md](setup_info_ai_machine.md)
 
 ### Setup: AI & Machine Learning Development Environment on AWS EC2
 - Small scale instance: [setup_aws_gpu_single.md](setup_aws_gpu_single.md) (for inferencing, finetuning and traditional deep learning)
