@@ -1,3 +1,5 @@
+# AI Machine Specs and Info
+
 ### Personal GPU Specs
 - NVIDIA RTX PRO 6000 Blackwell Workstation Edition (96GB)
 - NVIDIA RTX PRO 5000 Blackwell (48GB)
