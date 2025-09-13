@@ -1,3 +1,5 @@
+# AI Development Environment
+
 ### Info: AI Machine Specs and Info
 - [setup_info_ai_machine.md](setup_info_ai_machine.md)
 
@@ -15,6 +17,8 @@
 ### Manual: LLM Chat AI Apps on AWS EC2
 - Setup with Ubuntu 24.04 LTS: [setup_aws_simplyretrieve_2404.md](setup_aws_simplyretrieve_2404.md)
 - Setup with Ubuntu 22.04 LTS: [setup_aws_simplyretrieve_2204.md](setup_aws_simplyretrieve_2204.md)
+
+# Additional Tips
 
 ### Setup: Python Development Environment on AWS EC2
 - [setup_aws_python.md](setup_aws_python.md)
