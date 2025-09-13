@@ -1,13 +1,17 @@
 ### Personal GPU Specs
-- Ultra high cost: NVIDIA RTX PRO 6000 Blackwell (96GB)
-- Very high cost: NVIDIA RTX PRO 5000 Blackwell (48GB)
-- High cost: NVIDIA RTX 5090 (32GB)
-- Medium cost: NVIDIA RTX PRO 4000 Blackwell (24GB)
-- Low cost: NVIDIA RTX 5060 Ti (16GB)
+- RTX PRO 6000 Blackwell Workstation Edition (96GB)
+- NVIDIA RTX PRO 5000 Blackwell (48GB)
+- NVIDIA RTX PRO 4500 Blackwell (32GB)
+- NVIDIA RTX PRO 4000 Blackwell (24GB)
+- NVIDIA RTX PRO 2000 Blackwell (16GB)
+- NVIDIA RTX 5090 (32GB)
+- NVIDIA RTX 5080 (16GB)
+- NVIDIA RTX 5070 Ti (16GB)
+- NVIDIA RTX 5060 Ti (16GB)
 
 ### Personal AI Machine Specs
-- NVIDIA DGX Spark (128GB) ([info](https://www.nvidia.com/en-us/products/workstations/dgx-spark/))
 - NVIDIA DGX Station (288GB) ([info](https://www.nvidia.com/en-us/products/workstations/dgx-station/))
+- NVIDIA DGX Spark (128GB) ([info](https://www.nvidia.com/en-us/products/workstations/dgx-spark/))
 
 ### Enterprise AI Machine Specs
 - NVIDIA DGX GB300 System ([info](https://www.nvidia.com/en-us/data-center/dgx-gb300/?ncid=no-ncid))
