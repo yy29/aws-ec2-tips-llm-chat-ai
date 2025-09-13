@@ -1,5 +1,5 @@
 ### Personal GPU Specs
-- RTX PRO 6000 Blackwell Workstation Edition (96GB)
+- NVIDIA RTX PRO 6000 Blackwell Workstation Edition (96GB)
 - NVIDIA RTX PRO 5000 Blackwell (48GB)
 - NVIDIA RTX PRO 4500 Blackwell (32GB)
 - NVIDIA RTX PRO 4000 Blackwell (24GB)
