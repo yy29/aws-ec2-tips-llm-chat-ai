@@ -1,3 +1,6 @@
+### Info: AI Machine and GPU Specs and Info
+- [setup_info_gpu.md](setup_info_gpu.md)
+
 ### Setup: AI & Machine Learning Development Environment on AWS EC2
 - Small scale instance: [setup_aws_gpu_single.md](setup_aws_gpu_single.md) (for inferencing, finetuning and traditional deep learning)
 - Medium scale instance: [setup_aws_gpu_multi.md](setup_aws_gpu_multi.md) (For small scale models pretraining and finetuning)
@@ -21,9 +24,6 @@
 
 ### Info: EC2 Instance Types and Info
 - [setup_info_aws.md](setup_info_aws.md)
-
-### Info: AI Machine and GPU Specs and Info
-- [setup_info_gpu.md](setup_info_gpu.md)
 
 ### Info: Development Tools
 - SSH terminal: [MobaXterm](https://mobaxterm.mobatek.net/)
