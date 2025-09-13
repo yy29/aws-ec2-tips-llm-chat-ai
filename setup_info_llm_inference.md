@@ -4,6 +4,7 @@
 - OpenAI ([pricing](https://openai.com/api/pricing/))
 - AWS Bedrock ([pricing](https://aws.amazon.com/bedrock/pricing/))
 - Google AI Studio
+- NVIDIA AI ([info](https://build.nvidia.com/))
 
 #### Self-hosted Model and API
 - Ollama ([Github](https://github.com/ollama/ollama), [Website](https://ollama.com/))
