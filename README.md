@@ -6,7 +6,13 @@
 - Medium scale instance: [setup_aws_gpu_multi.md](setup_aws_gpu_multi.md) (For small scale models pretraining and finetuning)
 - Large scale instance: [setup_aws_gpu_high.md](setup_aws_gpu_high.md) (For large language & vision models pretraining)
 
-### Setup: LLM-based Chat AI Apps on AWS EC2
+### Manual: LLM Pretraining
+- [setup_info_llm_pretraining.md](setup_info_llm_pretraining.md)
+
+### Manual: LLM Inferencing
+- [setup_info_llm_inference.md](setup_info_llm_inference.md)
+
+### Manual: LLM Chat AI Apps on AWS EC2
 - Setup with Ubuntu 24.04 LTS: [setup_aws_simplyretrieve_2404.md](setup_aws_simplyretrieve_2404.md)
 - Setup with Ubuntu 22.04 LTS: [setup_aws_simplyretrieve_2204.md](setup_aws_simplyretrieve_2204.md)
 
@@ -15,12 +21,6 @@
 
 ### Setup: Container Development Environment on AWS EC2
 - [setup_aws_docker.md](setup_aws_docker.md)
-
-### Manual: LLM Pretraining
-- [setup_info_llm_pretraining.md](setup_info_llm_pretraining.md)
-
-### Manual: LLM Inferencing
-- [setup_info_llm_inference.md](setup_info_llm_inference.md)
 
 ### Info: Development Tools
 - SSH terminal: [MobaXterm](https://mobaxterm.mobatek.net/)
