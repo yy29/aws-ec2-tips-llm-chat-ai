@@ -1,15 +1,15 @@
 # AI Machine Specs and Info
 
 ### Personal GPU Specs
-- NVIDIA RTX PRO 6000 Blackwell Workstation Edition (96GB)
-- NVIDIA RTX PRO 5000 Blackwell (48GB)
-- NVIDIA RTX PRO 4500 Blackwell (32GB)
-- NVIDIA RTX PRO 4000 Blackwell (24GB)
-- NVIDIA RTX PRO 2000 Blackwell (16GB)
-- NVIDIA RTX 5090 (32GB)
-- NVIDIA RTX 5080 (16GB)
-- NVIDIA RTX 5070 Ti (16GB)
-- NVIDIA RTX 5060 Ti (16GB)
+- NVIDIA RTX PRO 6000 Blackwell Workstation Edition (96GB) ([info](https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/))
+- NVIDIA RTX PRO 5000 Blackwell (48GB) ([info](https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/))
+- NVIDIA RTX PRO 4500 Blackwell (32GB) ([info](https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/))
+- NVIDIA RTX PRO 4000 Blackwell (24GB) ([info](https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/))
+- NVIDIA RTX PRO 2000 Blackwell (16GB) ([info](https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/))
+- NVIDIA RTX 5090 (32GB) ([info](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/))
+- NVIDIA RTX 5080 (16GB) ([info](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/))
+- NVIDIA RTX 5070 Ti (16GB) ([info](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/))
+- NVIDIA RTX 5060 Ti (16GB) ([info](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/))
 
 ### Personal AI Machine Specs
 - NVIDIA DGX Station (288GB) ([info](https://www.nvidia.com/en-us/products/workstations/dgx-station/))
