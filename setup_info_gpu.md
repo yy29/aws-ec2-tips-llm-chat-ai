@@ -41,3 +41,10 @@
 - CoreWeave NVIDIA L40S (48GB)
 - CoreWeave NVIDIA L40 (48GB)
 - NVIDIA DGX Cloud
+
+### Cloud CPU Machine Specs
+- AWS EC2 m7a, m8i, m8g: General Purpose CPU
+- AWS EC2 r7a, r8i, r8g: Memory Optimized CPU
+- AWS EC2 c7a, c7i, c8g: Compute Optimized CPU
+- AWS EC2 i7i, i8g: Storage Optimized CPU
+- AWS EC2 t3, t4g: Tiny CPU
