@@ -1,4 +1,4 @@
-### Info: AI Machine and GPU Specs and Info
+### Info: AI Machine Specs and Info
 - [setup_info_gpu.md](setup_info_gpu.md)
 
 ### Setup: AI & Machine Learning Development Environment on AWS EC2
