@@ -41,6 +41,7 @@
 - CoreWeave NVIDIA L40S (48GB)
 - CoreWeave NVIDIA L40 (48GB)
 - NVIDIA DGX Cloud
+- Google Colab
 
 ### Cloud CPU Machine Specs
 - AWS EC2 m7a, m8i, m8g: General Purpose CPU
