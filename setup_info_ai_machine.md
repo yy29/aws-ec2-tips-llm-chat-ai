@@ -50,6 +50,7 @@
 - Nebius ([info](https://nebius.com/))
 - Lambda ([info](https://lambda.ai/))
 - NVIDIA DGX Cloud ([info](https://www.nvidia.com/en-us/data-center/dgx-cloud/))
+- NVIDIA DGX Cloud Lepton ([info](https://www.nvidia.com/en-gb/data-center/dgx-cloud-lepton/))
 - Google Colab ([info](https://colab.research.google.com/))
 - Microsoft Azure Virtual Machine NDsr H100 v5
 - Microsoft Azure Virtual Machine NCads H100 v5
