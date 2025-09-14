@@ -13,7 +13,7 @@
 - Pretraining: [setup_info_llm_pretraining.md](setup_info_llm_pretraining.md)
 
 ### Manual: LLM Inferencing
-- [setup_info_llm_inference.md](setup_info_llm_inference.md)
+- Inference: [setup_info_llm_inference.md](setup_info_llm_inference.md)
 
 ### Manual: LLM Chat AI Apps on AWS EC2
 - Setup with Ubuntu 24.04 LTS: [setup_aws_simplyretrieve_2404.md](setup_aws_simplyretrieve_2404.md)
