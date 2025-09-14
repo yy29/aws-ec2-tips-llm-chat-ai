@@ -51,6 +51,12 @@
 - Lambda ([info](https://lambda.ai/))
 - NVIDIA DGX Cloud ([info](https://www.nvidia.com/en-us/data-center/dgx-cloud/))
 - Google Colab ([info](https://colab.research.google.com/))
+- Microsoft Azure Virtual Machine NDsr H100 v5
+- Microsoft Azure Virtual Machine NCads H100 v5
+- Microsoft Azure Virtual Machine NDm A100 v4
+- Microsoft Azure Virtual Machine ND A100 v4
+- Microsoft Azure Virtual Machine NC A100 v4
+- Microsoft Azure Virtual Machine NC4as T4 v3
 
 ### Cloud CPU Machine Specs
 - AWS EC2 m7a, m8i, m8g: General Purpose CPU ([info](https://aws.amazon.com/ec2/instance-types/m8i/))
