@@ -4,7 +4,7 @@
 
 ### Pretraining (Long Context)
 
-### Supervised Fine-Tuning
+### Tasks Optimization (Supervised Fine-Tuning)
 
 ### Reasoning Optimization
 
