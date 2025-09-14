@@ -8,8 +8,9 @@
 - Medium scale instance: [setup_aws_gpu_multi.md](setup_aws_gpu_multi.md) (For small scale models pretraining and finetuning)
 - Large scale instance: [setup_aws_gpu_high.md](setup_aws_gpu_high.md) (For large language & vision models pretraining)
 
-### Manual: LLM Pretraining
-- [setup_info_llm_pretraining.md](setup_info_llm_pretraining.md)
+### Manual: LLM Training
+- Overall Flow: [setup_info_llm_creation.md](setup_info_llm_creation.md)
+- Pretraining: [setup_info_llm_pretraining.md](setup_info_llm_pretraining.md)
 
 ### Manual: LLM Inferencing
 - [setup_info_llm_inference.md](setup_info_llm_inference.md)
