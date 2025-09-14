@@ -1,6 +1,8 @@
 # LLM Creation Flow
 
-### Pretraining
+### Pretraining (Short Context)
+
+### Pretraining (Long Context)
 
 ### Supervised Fine-Tuning
 
