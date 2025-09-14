@@ -1,13 +1,18 @@
 # LLM Creation Flow
 
 ### Pretraining (Short Context)
-- 10T Tokens
+- Number of Tokens: 10T
+- Context Length: 1k~4k
 
 ### Pretraining (Long Context)
-- 1T Tokens
+- Number of Tokens: 1T
+- Context Length: 16k~
 
 ### Tasks Optimization (Supervised Fine-Tuning)
+- Instruction following tasks
 
 ### Reasoning Optimization
+- Deep thinking 
 
 ### Preference Optimization
+- User feedback and preference
