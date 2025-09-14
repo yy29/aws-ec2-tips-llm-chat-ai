@@ -4,4 +4,6 @@
 
 ### Supervised Fine-Tuning
 
+### Reasoning Optimization
+
 ### Preference Optimization
