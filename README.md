@@ -12,11 +12,11 @@
 - Overall Training Flow: [setup_info_llm_creation.md](setup_info_llm_creation.md)
 - Pretraining: [setup_info_llm_pretraining.md](setup_info_llm_pretraining.md)
 
-### Manual: LLM Inferencing
-- Inference: [setup_info_llm_inference.md](setup_info_llm_inference.md)
-
 ### Manual: LLM Evaluation
 - Evaluation: [setup_info_llm_evaluation.md](setup_info_llm_evaluation.md)
+
+### Manual: LLM Inferencing & Deployment
+- Inference: [setup_info_llm_inference.md](setup_info_llm_inference.md)
 
 ### Manual: LLM Chat AI Apps on AWS EC2
 - Setup with Ubuntu 24.04 LTS: [setup_aws_simplyretrieve_2404.md](setup_aws_simplyretrieve_2404.md)
