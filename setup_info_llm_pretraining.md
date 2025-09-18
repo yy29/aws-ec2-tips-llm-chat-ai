@@ -43,19 +43,18 @@
 - If you are very rich: 8 x 288GB NVIDIA Blackwell Ultra GPU ([NVIDIA DGX B300 System](https://www.nvidia.com/en-us/data-center/dgx-b300/?ncid=no-ncid))
 - OS: Ubuntu 24.04 LTS
 
-#### Number of GPUs needed for pretraining with acceptable performance
-Condition: Expect training with 1 trillion tokens using H200 GPUs  
-Note: You may half the number of nodes if using Blackwell GPUs  
-Recommended formula: 1B parameters = 1 node  
-Minimum formula: 1B parameters = 0.5 node
-- 1B-2B LLM: 1 node of 8 x 141GB NVIDIA H200 SXM GPU
-- 3B-4B LLM: 2 nodes of 8 x 141GB NVIDIA H200 SXM GPU
-- 7B-8B LLM: 4 nodes of 8 x 141GB NVIDIA H200 SXM GPU
-- 14B LLM: 7 nodes of 8 x 141GB NVIDIA H200 SXM GPU
-- 20B LLM: 10 nodes of 8 x 141GB NVIDIA H200 SXM GPU
-- 70B LLM: 35 nodes of 8 x 141GB NVIDIA H200 SXM GPU
-- 120B LLM: 60 nodes of 8 x 141GB NVIDIA H200 SXM GPU
-- 300B LLM: 150 nodes of 8 x 141GB NVIDIA H200 SXM GPU
-- 700B LLM: 350 nodes of 8 x 141GB NVIDIA H200 SXM GPU
-- 1000B LLM: 500 nodes of 8 x 141GB NVIDIA H200 SXM GPU
-- 1800B LLM: 900 nodes of 8 x 141GB NVIDIA H200 SXM GPU
+#### Number of GPUs needed for pretraining dense LLM
+Condition: Training with 10 trillion tokens using H200 GPUs  
+Note: Blackwell GPUs are recommended  
+Formula: Starting from 1B = 8 nodes, progressing towards 1B = 4 nodes 
+- 1B-2B LLM: 16 node of 8 x 141GB NVIDIA H200 SXM GPU
+- 3B-4B LLM: 32 nodes of 8 x 141GB NVIDIA H200 SXM GPU
+- 7B-8B LLM: 64 nodes of 8 x 141GB NVIDIA H200 SXM GPU
+- 14B LLM: 112 nodes of 8 x 141GB NVIDIA H200 SXM GPU
+- 20B LLM: 160 nodes of 8 x 141GB NVIDIA H200 SXM GPU
+- 70B LLM: 280 nodes of 8 x 141GB NVIDIA H200 SXM GPU
+- 120B LLM: 480 nodes of 8 x 141GB NVIDIA H200 SXM GPU
+- 300B LLM: 1200 nodes of 8 x 141GB NVIDIA H200 SXM GPU
+- 700B LLM: 2800 nodes of 8 x 141GB NVIDIA H200 SXM GPU
+- 1000B LLM: 4000 nodes of 8 x 141GB NVIDIA H200 SXM GPU
+- 1800B LLM: 7200 nodes of 8 x 141GB NVIDIA H200 SXM GPU
