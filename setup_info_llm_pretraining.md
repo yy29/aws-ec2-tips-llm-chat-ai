@@ -70,5 +70,7 @@ Formula: Starting from 1B = 8 nodes, progressing towards 1B = 4 nodes
 | 21B-3.6B | 13 | 8 x 141GB NVIDIA H200 SXM GPU | gpt-oss-20b |
 | 117B-5.1B | 122 | 8 x 141GB NVIDIA H200 SXM GPU | gpt-oss-120b |
 | 80B-3B | TBD | 8 x 141GB NVIDIA H200 SXM GPU | Qwen3-Next-80B-A3B |
+| 30B-3B | TBD | 8 x 141GB NVIDIA H200 SXM GPU | Qwen3-30B-A3B |
+| 235B-22B | TBD | 8 x 141GB NVIDIA H200 SXM GPU | Qwen3-235B-A22B |
 | 400B-17B | 69 | 8 x 141GB NVIDIA H200 SXM GPU | Llama 4 Maverick |
 | 671B-37B | 108 | 8 x 141GB NVIDIA H200 SXM GPU | DeepSeek-V3 |
