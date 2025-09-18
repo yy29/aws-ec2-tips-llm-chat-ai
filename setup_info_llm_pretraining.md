@@ -47,6 +47,7 @@
 Training data: 10 trillion tokens  
 Training time: 3 months  
 GPU: NVIDIA H200 is sufficient. But Blackwell GPUs are recommended 
+
 ### Dense LLM
 Formula: Starting from 1B = 8 nodes, progressing towards 1B = 4 nodes 
 | LLM Size | No. Nodes | Node Specs |
@@ -62,3 +63,11 @@ Formula: Starting from 1B = 8 nodes, progressing towards 1B = 4 nodes
 | 700B | 2800 | 8 x 141GB NVIDIA H200 SXM GPU |
 | 1000B | 4000 | 8 x 141GB NVIDIA H200 SXM GPU |
 | 1800B | 7200 | 8 x 141GB NVIDIA H200 SXM GPU |
+
+### MoE LLM
+| LLM Size | No. Nodes | Node Specs | Remarks |
+|---|---|---|---|
+| 21B-3.6B | 13 | 8 x 141GB NVIDIA H200 SXM GPU | gpt-oss-20b |
+| 117B-5.1B | 122 | 8 x 141GB NVIDIA H200 SXM GPU | gpt-oss-120b |
+| 400B-17B | 69 | 8 x 141GB NVIDIA H200 SXM GPU | Llama 4 Maverick |
+| 671B-37B | 108 | 8 x 141GB NVIDIA H200 SXM GPU | DeepSeek-V3 |
