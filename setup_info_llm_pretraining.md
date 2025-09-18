@@ -49,9 +49,9 @@ Training time: 3 months
 GPU: NVIDIA H200 is sufficient. But Blackwell GPUs are recommended 
 ### Dense LLM
 Formula: Starting from 1B = 8 nodes, progressing towards 1B = 4 nodes  
-- 1B-2B LLM: 16 node of 8 x 141GB NVIDIA H200 SXM GPU
-- 3B-4B LLM: 32 nodes of 8 x 141GB NVIDIA H200 SXM GPU
-- 7B-8B LLM: 64 nodes of 8 x 141GB NVIDIA H200 SXM GPU
+- 2B LLM: 16 node of 8 x 141GB NVIDIA H200 SXM GPU
+- 4B LLM: 32 nodes of 8 x 141GB NVIDIA H200 SXM GPU
+- 8B LLM: 64 nodes of 8 x 141GB NVIDIA H200 SXM GPU
 - 14B LLM: 112 nodes of 8 x 141GB NVIDIA H200 SXM GPU
 - 20B LLM: 160 nodes of 8 x 141GB NVIDIA H200 SXM GPU
 - 70B LLM: 280 nodes of 8 x 141GB NVIDIA H200 SXM GPU
