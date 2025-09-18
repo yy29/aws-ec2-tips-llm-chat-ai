@@ -48,15 +48,17 @@ Training data: 10 trillion tokens
 Training time: 3 months  
 GPU: NVIDIA H200 is sufficient. But Blackwell GPUs are recommended 
 ### Dense LLM
-Formula: Starting from 1B = 8 nodes, progressing towards 1B = 4 nodes  
-- 2B LLM: 16 node of 8 x 141GB NVIDIA H200 SXM GPU
-- 4B LLM: 32 nodes of 8 x 141GB NVIDIA H200 SXM GPU
-- 8B LLM: 64 nodes of 8 x 141GB NVIDIA H200 SXM GPU
-- 14B LLM: 112 nodes of 8 x 141GB NVIDIA H200 SXM GPU
-- 20B LLM: 160 nodes of 8 x 141GB NVIDIA H200 SXM GPU
-- 70B LLM: 280 nodes of 8 x 141GB NVIDIA H200 SXM GPU
-- 120B LLM: 480 nodes of 8 x 141GB NVIDIA H200 SXM GPU
-- 300B LLM: 1200 nodes of 8 x 141GB NVIDIA H200 SXM GPU
-- 700B LLM: 2800 nodes of 8 x 141GB NVIDIA H200 SXM GPU
-- 1000B LLM: 4000 nodes of 8 x 141GB NVIDIA H200 SXM GPU
-- 1800B LLM: 7200 nodes of 8 x 141GB NVIDIA H200 SXM GPU
+Formula: Starting from 1B = 8 nodes, progressing towards 1B = 4 nodes 
+| LLM Size | No. Nodes | Node Specs |
+|---|---|---|
+| 2B | 16 | 8 x 141GB NVIDIA H200 SXM GPU |
+| 4B | 32 | 8 x 141GB NVIDIA H200 SXM GPU |
+| 8B | 64 | 8 x 141GB NVIDIA H200 SXM GPU |
+| 14B | 112 | 8 x 141GB NVIDIA H200 SXM GPU |
+| 20B | 160 | 8 x 141GB NVIDIA H200 SXM GPU |
+| 70B | 280 | 8 x 141GB NVIDIA H200 SXM GPU |
+| 120B | 480 | 8 x 141GB NVIDIA H200 SXM GPU |
+| 300B | 1200 | 8 x 141GB NVIDIA H200 SXM GPU |
+| 700B | 2800 | 8 x 141GB NVIDIA H200 SXM GPU |
+| 1000B | 4000 | 8 x 141GB NVIDIA H200 SXM GPU |
+| 1800B | 7200 | 8 x 141GB NVIDIA H200 SXM GPU |
