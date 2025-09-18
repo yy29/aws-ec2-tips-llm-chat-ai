@@ -44,9 +44,10 @@
 - OS: Ubuntu 24.04 LTS
 
 #### Number of GPUs needed for pretraining dense LLM
-Condition: Training with 10 trillion tokens using H200 GPUs  
-Note: Blackwell GPUs are recommended  
-Formula: Starting from 1B = 8 nodes, progressing towards 1B = 4 nodes 
+Training data: 10 trillion tokens  
+Training time: 3 months  
+GPU: NVIDIA H200 is sufficient. But Blackwell GPUs are recommended  
+Formula: Starting from 1B = 8 nodes, progressing towards 1B = 4 nodes  
 - 1B-2B LLM: 16 node of 8 x 141GB NVIDIA H200 SXM GPU
 - 3B-4B LLM: 32 nodes of 8 x 141GB NVIDIA H200 SXM GPU
 - 7B-8B LLM: 64 nodes of 8 x 141GB NVIDIA H200 SXM GPU
