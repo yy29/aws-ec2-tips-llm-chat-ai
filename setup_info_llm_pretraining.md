@@ -43,10 +43,11 @@
 - If you are very rich: 8 x 288GB NVIDIA Blackwell Ultra GPU ([NVIDIA DGX B300 System](https://www.nvidia.com/en-us/data-center/dgx-b300/?ncid=no-ncid))
 - OS: Ubuntu 24.04 LTS
 
-#### Number of GPUs needed for pretraining dense LLM
+## Number of GPUs needed for pretraining 
 Training data: 10 trillion tokens  
 Training time: 3 months  
-GPU: NVIDIA H200 is sufficient. But Blackwell GPUs are recommended  
+GPU: NVIDIA H200 is sufficient. But Blackwell GPUs are recommended 
+### Dense LLM
 Formula: Starting from 1B = 8 nodes, progressing towards 1B = 4 nodes  
 - 1B-2B LLM: 16 node of 8 x 141GB NVIDIA H200 SXM GPU
 - 3B-4B LLM: 32 nodes of 8 x 141GB NVIDIA H200 SXM GPU
