@@ -4,7 +4,7 @@
 - Region: Your choice
 - Instance: `p5.4xlarge / g6e.12xlarge / g6e.48xlarge / p4d.24xlarge / p4de.24xlarge`
 - AMI Image: Deep Learning Base OSS Nvidia Driver GPU AMI (Ubuntu 24.04)
-- AMI Image Release Notes: https://docs.aws.amazon.com/dlami/latest/devguide/X86-base-dlami.html
+- AMI Image Release Notes: https://docs.aws.amazon.com/dlami/latest/devguide/appendix-ami-release-notes.html
 - Key Pairs: Create your key pairs and save private key file
 - EBS Storage: gp3, Volume: 500GB, IOPS: 3000, Throughput: 125
 - Security Group: Create one with specs below
