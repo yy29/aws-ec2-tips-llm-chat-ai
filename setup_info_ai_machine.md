@@ -26,6 +26,8 @@
 - AWS EC2 p6: NVIDIA B200 GPU (180GB) ([info](https://aws.amazon.com/ec2/instance-types/p6/))
 - AWS EC2 p5: NVIDIA H100/H200 GPU (80GB/141GB) ([info](https://aws.amazon.com/ec2/instance-types/p5/))
 - AWS EC2 p4: NVIDIA A100 GPU (40GB/80GB) ([info](https://aws.amazon.com/ec2/instance-types/p4/))
+- AWS EC2 g7e: NVIDIA RTX PRO 6000 Blackwell Server Edition GPU (96GB) ([info](https://aws.amazon.com/ec2/instance-types/g7e/))
+- AWS EC2 g7: NVIDIA RTX PRO 4500 Blackwell Server Edition GPU (32GB) ([info](https://aws.amazon.com/ec2/instance-types/g7/))
 - AWS EC2 g6e: NVIDIA L40S GPU (48GB) ([info](https://aws.amazon.com/ec2/instance-types/g6e/))
 - AWS EC2 g6: NVIDIA L4 GPU (24GB) ([info](https://aws.amazon.com/ec2/instance-types/g6/))
 - AWS EC2 g5: NVIDIA A10G GPU (24GB) ([info](https://aws.amazon.com/ec2/instance-types/g5/))
