@@ -63,7 +63,7 @@
 
 ### Cloud CPU Machine Specs
 - AWS EC2 m8i, m8a, m9g: General Purpose CPU ([info](https://aws.amazon.com/ec2/instance-types/m8i/))
-- AWS EC2 r8i, r7a, r8g: Memory Optimized CPU ([info](https://aws.amazon.com/ec2/instance-types/r8i/))
+- AWS EC2 r8i, r8a, r8g: Memory Optimized CPU ([info](https://aws.amazon.com/ec2/instance-types/r8i/))
 - AWS EC2 c8i, c7a, c8g: Compute Optimized CPU ([info](https://aws.amazon.com/ec2/instance-types/c8i/))
 - AWS EC2 i7i, i8g: Storage Optimized CPU ([info](https://aws.amazon.com/ec2/instance-types/i7i/))
 - AWS EC2 t3, t3a, t4g: Tiny CPU ([info](https://aws.amazon.com/ec2/instance-types/t3/))
