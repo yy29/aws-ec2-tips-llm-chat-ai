@@ -31,11 +31,7 @@
 - Setup with Ubuntu 22.04 LTS: [setup_aws_simplyretrieve_2204.md](setup_aws_simplyretrieve_2204.md)
 
 ### Info: Development Tools
-- SSH terminal: [MobaXterm](https://mobaxterm.mobatek.net/)
-- Interactive python: [Jupyter Notebook](https://jupyter.org/)
-- Cloud-based interactive python and GPU: [Google Colab](https://colab.research.google.com/)
-- Hardware resource monitoring: [Zabbix](https://www.zabbix.com/)
-- Clusters management: [Slurm Workload Manager](https://slurm.schedmd.com/)
+- [info_tool_dev.md](info_tool_dev.md)
 
 ### Info: Useful Sites for Developing LLM
 - [Hugging Face](https://huggingface.co/)
