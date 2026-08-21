@@ -3,6 +3,12 @@
 ### Info: AI Machine Specs and Info
 - [info_ai_machine.md](info_ai_machine.md)
 
+### Info: Development Tools
+- [info_tool_dev.md](info_tool_dev.md)
+
+### Info: AI Development Sites and Tools
+- [info_tool_ai.md](info_tool_ai.md)
+
 ### Setup: AI & Machine Learning Development Environment on AWS EC2
 - Small scale instance: [setup_aws_gpu_single.md](setup_aws_gpu_single.md) (for inferencing, finetuning and traditional deep learning)
 - Medium scale instance: [setup_aws_gpu_multi.md](setup_aws_gpu_multi.md) (For small scale models pretraining and finetuning)
@@ -29,9 +35,3 @@
 ### Setup: LLM Chat AI Apps on AWS EC2
 - Setup with Ubuntu 24.04 LTS: [setup_aws_simplyretrieve_2404.md](setup_aws_simplyretrieve_2404.md)
 - Setup with Ubuntu 22.04 LTS: [setup_aws_simplyretrieve_2204.md](setup_aws_simplyretrieve_2204.md)
-
-### Info: Development Tools
-- [info_tool_dev.md](info_tool_dev.md)
-
-### Info: AI Development Sites and Tools
-- [info_tool_ai.md](info_tool_ai.md)
