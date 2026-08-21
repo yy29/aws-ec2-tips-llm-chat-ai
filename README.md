@@ -1,7 +1,7 @@
 # AI Development Environment
 
 ### Info: AI Machine Specs and Info
-- [setup_info_ai_machine.md](setup_info_ai_machine.md)
+- [info_ai_machine.md](info_ai_machine.md)
 
 ### Setup: AI & Machine Learning Development Environment on AWS EC2
 - Small scale instance: [setup_aws_gpu_single.md](setup_aws_gpu_single.md) (for inferencing, finetuning and traditional deep learning)
@@ -9,14 +9,14 @@
 - Large scale instance: [setup_aws_gpu_high.md](setup_aws_gpu_high.md) (For large language & vision models pretraining)
 
 ### Manual: LLM Training
-- Overall Training Flow: [setup_info_llm_creation.md](setup_info_llm_creation.md)
-- Pretraining: [setup_info_llm_pretraining.md](setup_info_llm_pretraining.md)
+- Overall Training Flow: [info_llm_creation.md](info_llm_creation.md)
+- Pretraining: [info_llm_pretraining.md](info_llm_pretraining.md)
 
 ### Manual: LLM Evaluation
-- Evaluation: [setup_info_llm_evaluation.md](setup_info_llm_evaluation.md)
+- Evaluation: [info_llm_evaluation.md](info_llm_evaluation.md)
 
 ### Manual: LLM Inferencing & Deployment
-- Inference: [setup_info_llm_inference.md](setup_info_llm_inference.md)
+- Inference: [info_llm_inference.md](info_llm_inference.md)
 
 ### Manual: LLM Chat AI Apps on AWS EC2
 - Setup with Ubuntu 24.04 LTS: [setup_aws_simplyretrieve_2404.md](setup_aws_simplyretrieve_2404.md)
