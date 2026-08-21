@@ -33,5 +33,5 @@
 ### Info: Development Tools
 - [info_tool_dev.md](info_tool_dev.md)
 
-### Info: Useful Sites for Developing LLM
+### Info: AI Development Sites and Tools
 - [info_tool_ai.md](info_tool_ai.md)
