@@ -12,7 +12,7 @@
 - NVIDIA RTX 5060 Ti (16GB) ([info](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/))
 
 ### Personal AI Machine Specs
-- NVIDIA DGX Station (288GB) ([info](https://www.nvidia.com/en-us/products/workstations/dgx-station/))
+- NVIDIA DGX Station (252GB) ([info](https://www.nvidia.com/en-us/products/workstations/dgx-station/))
 - NVIDIA DGX Spark (128GB) ([info](https://www.nvidia.com/en-us/products/workstations/dgx-spark/))
 
 ### Enterprise AI Machine Specs
