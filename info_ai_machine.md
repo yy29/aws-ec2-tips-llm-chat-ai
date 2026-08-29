@@ -16,7 +16,7 @@
 - NVIDIA DGX Spark (128GB) ([info](https://www.nvidia.com/en-us/products/workstations/dgx-spark/))
 
 ### Enterprise AI Machine Specs
-- NVIDIA DGX GB300 System ([info](https://www.nvidia.com/en-us/data-center/dgx-gb300/?ncid=no-ncid))
+- NVIDIA DGX GB300 System (20TB) ([info](https://www.nvidia.com/en-us/data-center/dgx-gb300/?ncid=no-ncid))
 - NVIDIA DGX GB200 System (13.4TB) ([info](https://www.nvidia.com/en-us/data-center/dgx-gb200/?ncid=no-ncid))
 - NVIDIA DGX B300 System (2100GB) ([info](https://www.nvidia.com/en-us/data-center/dgx-b300/?ncid=no-ncid))
 - NVIDIA DGX B200 System (1440GB) ([info](https://www.nvidia.com/en-us/data-center/dgx-b200/?ncid=no-ncid))
