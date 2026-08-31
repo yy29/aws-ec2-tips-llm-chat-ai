@@ -16,6 +16,7 @@
 - NVIDIA DGX Spark (128GB) ([info](https://www.nvidia.com/en-us/products/workstations/dgx-spark/))
 
 ### Enterprise AI Machine Specs
+- NVIDIA Groq 3 LPX ([info](https://www.nvidia.com/en-us/data-center/lpx/?ncid=no-ncid))
 - NVIDIA DGX Vera Rubin NVL72 (20.7TB) ([info](https://www.nvidia.com/en-us/data-center/dgx-vera-rubin-nvl72/?ncid=no-ncid))
 - NVIDIA DGX Rubin NVL8 (2.3TB) ([info](https://www.nvidia.com/en-us/data-center/dgx-rubin-nvl8/?ncid=no-ncid))
 - NVIDIA DGX GB300 (20TB) ([info](https://www.nvidia.com/en-us/data-center/dgx-gb300/?ncid=no-ncid))
