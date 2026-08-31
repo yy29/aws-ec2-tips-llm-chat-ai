@@ -1,6 +1,6 @@
 # AI Machine Specs and Info
 
-### Personal GPU Specs
+### Personal AI GPU Specs
 - NVIDIA RTX PRO 6000 Blackwell Workstation Edition (96GB) ([info](https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/))
 - NVIDIA RTX PRO 5000 Blackwell (48GB) ([info](https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/))
 - NVIDIA RTX PRO 4500 Blackwell (32GB) ([info](https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/))
@@ -11,11 +11,11 @@
 - NVIDIA RTX 5070 Ti (16GB) ([info](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/))
 - NVIDIA RTX 5060 Ti (16GB) ([info](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/))
 
-### Personal AI Machine Specs
+### Personal AI Workstation Specs
 - NVIDIA DGX Station (252GB) ([info](https://www.nvidia.com/en-us/products/workstations/dgx-station/))
 - NVIDIA DGX Spark (128GB) ([info](https://www.nvidia.com/en-us/products/workstations/dgx-spark/))
 
-### Enterprise AI Machine Specs
+### Enterprise AI Server Specs
 - NVIDIA Groq 3 LPX ([info](https://www.nvidia.com/en-us/data-center/lpx/?ncid=no-ncid))
 - NVIDIA Vera Rubin NVL72 (20.7TB) ([info](https://www.nvidia.com/en-us/data-center/vera-rubin-nvl72/?ncid=no-ncid))
 - NVIDIA GB300 NVL72 (20TB) ([info](https://www.nvidia.com/en-us/data-center/gb300-nvl72/?ncid=no-ncid))
