@@ -18,9 +18,9 @@
 ### Enterprise AI Machine Specs
 - NVIDIA Groq 3 LPX ([info](https://www.nvidia.com/en-us/data-center/lpx/?ncid=no-ncid))
 - NVIDIA Vera Rubin NVL72 (20.7TB) ([info](https://www.nvidia.com/en-us/data-center/vera-rubin-nvl72/?ncid=no-ncid))
-- NVIDIA DGX Rubin NVL8 (2.3TB) ([info](https://www.nvidia.com/en-us/data-center/dgx-rubin-nvl8/?ncid=no-ncid))
 - NVIDIA GB300 NVL72 (20TB) ([info](https://www.nvidia.com/en-us/data-center/gb300-nvl72/?ncid=no-ncid))
 - NVIDIA GB200 NVL72 (13.4TB) ([info](https://www.nvidia.com/en-us/data-center/gb200-nvl72/?ncid=no-ncid))
+- NVIDIA DGX Rubin NVL8 (2.3TB) ([info](https://www.nvidia.com/en-us/data-center/dgx-rubin-nvl8/?ncid=no-ncid))
 - NVIDIA DGX B300 (2.1TB) ([info](https://www.nvidia.com/en-us/data-center/dgx-b300/?ncid=no-ncid))
 - NVIDIA DGX B200 (1440GB) ([info](https://www.nvidia.com/en-us/data-center/dgx-b200/?ncid=no-ncid))
 - NVIDIA DGX H200 (1128GB) ([info](https://www.nvidia.com/en-us/data-center/dgx-h200/?ncid=no-ncid))
