@@ -54,12 +54,12 @@
 - CoreWeave NVIDIA RTX PRO 6000 Blackwell (96GB) ([info](https://www.coreweave.com/products/nvidia-blackwell))
 - CoreWeave NVIDIA L40S (48GB) ([info](https://www.coreweave.com/products/gpu-compute))
 - CoreWeave NVIDIA L40 (48GB) ([info](https://www.coreweave.com/products/gpu-compute))
-- Microsoft Azure Virtual Machine NDsr H100 v5
-- Microsoft Azure Virtual Machine NCads H100 v5
-- Microsoft Azure Virtual Machine NDm A100 v4
-- Microsoft Azure Virtual Machine ND A100 v4
-- Microsoft Azure Virtual Machine NC A100 v4
-- Microsoft Azure Virtual Machine NC4as T4 v3
+- Microsoft Azure Virtual Machine NDsr H100 v5 ([info](https://azure.microsoft.com/en-us/products/virtual-machines))
+- Microsoft Azure Virtual Machine NCads H100 v5 ([info](https://azure.microsoft.com/en-us/products/virtual-machines))
+- Microsoft Azure Virtual Machine NDm A100 v4 ([info](https://azure.microsoft.com/en-us/products/virtual-machines))
+- Microsoft Azure Virtual Machine ND A100 v4 ([info](https://azure.microsoft.com/en-us/products/virtual-machines))
+- Microsoft Azure Virtual Machine NC A100 v4 ([info](https://azure.microsoft.com/en-us/products/virtual-machines))
+- Microsoft Azure Virtual Machine NC4as T4 v3 ([info](https://azure.microsoft.com/en-us/products/virtual-machines))
 - NVIDIA DGX Cloud ([info](https://www.nvidia.com/en-us/data-center/dgx-cloud/))
 - NVIDIA DGX Cloud Lepton ([info](https://www.nvidia.com/en-gb/data-center/dgx-cloud-lepton/))
 - Nebius ([info](https://nebius.com/))
