@@ -50,7 +50,7 @@
 - CoreWeave NVIDIA HGX H100 (80GB) ([info](https://www.coreweave.com/products/hgx-h100-h200))
 - CoreWeave NVIDIA GH200 (96GB) ([info](https://www.coreweave.com/products/hgx-h100-h200))
 - CoreWeave NVIDIA A100 (80GB) ([info](https://www.coreweave.com/products/gpu-compute))
-- CoreWeave NVIDIA RTX PRO 6000 Blackwell Server Edition (96GB) ([info](https://www.coreweave.com/products/gpu-compute))
+- CoreWeave NVIDIA RTX PRO 6000 Blackwell (96GB) ([info](https://www.coreweave.com/products/gpu-compute))
 - CoreWeave NVIDIA L40S (48GB) ([info](https://www.coreweave.com/products/gpu-compute))
 - CoreWeave NVIDIA L40 (48GB) ([info](https://www.coreweave.com/products/gpu-compute))
 - Nebius ([info](https://nebius.com/))
