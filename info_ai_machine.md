@@ -68,6 +68,7 @@
 ### Cloud Hosted AI Environment
 - Google Colab ([info](https://colab.research.google.com/?hl=en))
 - Hugging Face Spaces ([info](https://huggingface.co/spaces))
+- Kaggle Notebooks ([info](https://www.kaggle.com/code))
 
 ### Cloud CPU Machine Specs
 - AWS EC2 m8i, m8a, m9g: General Purpose CPU ([info](https://aws.amazon.com/ec2/instance-types/m8i/))
