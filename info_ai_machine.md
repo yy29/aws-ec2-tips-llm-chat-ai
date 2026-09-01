@@ -64,6 +64,8 @@
 - NVIDIA DGX Cloud Lepton ([info](https://www.nvidia.com/en-gb/data-center/dgx-cloud-lepton/))
 - Nebius ([info](https://nebius.com/))
 - Lambda ([info](https://lambda.ai/))
+
+### Cloud Hosted AI Environment
 - Google Colab ([info](https://colab.research.google.com/?hl=en))
 
 ### Cloud CPU Machine Specs
