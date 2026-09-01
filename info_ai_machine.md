@@ -26,7 +26,7 @@
 - NVIDIA DGX H200 (1128GB) ([info](https://www.nvidia.com/en-us/data-center/dgx-h200/?ncid=no-ncid))
 
 ### Cloud AI Machine Specs
-- AWS EC2 p6: NVIDIA B200/B300 GPU (180GB/268GB) ([info](https://aws.amazon.com/ec2/instance-types/p6/))
+- AWS EC2 p6: NVIDIA B200/GB200/B300 GPU (179GB/185GB/268GB) ([info](https://aws.amazon.com/ec2/instance-types/p6/))
 - AWS EC2 p5: NVIDIA H100/H200 GPU (80GB/141GB) ([info](https://aws.amazon.com/ec2/instance-types/p5/))
 - AWS EC2 p4: NVIDIA A100 GPU (40GB/80GB) ([info](https://aws.amazon.com/ec2/instance-types/p4/))
 - AWS EC2 g7e: NVIDIA RTX PRO 6000 Blackwell Server Edition GPU (96GB) ([info](https://aws.amazon.com/ec2/instance-types/g7e/))
