@@ -64,7 +64,7 @@
 - NVIDIA DGX Cloud Lepton ([info](https://www.nvidia.com/en-gb/data-center/dgx-cloud-lepton/))
 - Nebius ([info](https://nebius.com/))
 - Lambda ([info](https://lambda.ai/))
-- Google Colab ([info](https://colab.research.google.com/))
+- Google Colab ([info](https://colab.research.google.com/?hl=en))
 
 ### Cloud CPU Machine Specs
 - AWS EC2 m8i, m8a, m9g: General Purpose CPU ([info](https://aws.amazon.com/ec2/instance-types/m8i/))
