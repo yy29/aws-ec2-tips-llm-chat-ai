@@ -1,6 +1,6 @@
 ## Setup Machine Learning Development Environment on AWS EC2
 *Small scale instance: For inferencing, finetuning and traditional deep learning*  
-*Medium scale instance: For small scale models pretraining and finetuning*  
+*Medium scale instance: For small scale model training and finetuning*  
 *Large scale instance: For medium scale language & vision models pretraining*  
 *Ultra scale instance: For large language & vision models pretraining*  
 
