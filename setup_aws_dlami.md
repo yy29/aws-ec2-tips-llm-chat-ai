@@ -1,4 +1,8 @@
 ## Setup Machine Learning Development Environment on AWS EC2
+*Small scale instance: for inferencing, finetuning and traditional deep learning*  
+*Medium scale instance: For small scale models pretraining and finetuning*  
+*Large scale instance: For medium scale language & vision models pretraining*  
+*Ultra scale instance: For large language & vision models pretraining*  
 
 ### (1) [AWS](https://aws.amazon.com/) EC2 Instance Creation
 - Region: Your choice
@@ -11,9 +15,10 @@
 - AMI Image Release Notes: https://docs.aws.amazon.com/dlami/latest/devguide/appendix-ami-release-notes.html
 - Key Pairs: Create your key pairs and save private key file
 - EBS Storage: Select one from below
-  - Small scale: gp3, Volume: 50GB, IOPS: 3000, Throughput: 125
-  - Medium scale: gp3, Volume: 500GB, IOPS: 3000, Throughput: 125
-  - Large scale: gp3, Volume: 2000GB, IOPS: 6000, Throughput: 250
+  - Small scale: `gp3, Volume: 50GB, IOPS: 3000, Throughput: 125`
+  - Medium scale: `gp3, Volume: 500GB, IOPS: 3000, Throughput: 125`
+  - Large scale: `gp3, Volume: 2000GB, IOPS: 6000, Throughput: 250`
+  - Ultra scale: `gp3, Volume: 2000GB, IOPS: 10000, Throughput: 1000`
 - Security Group: Create one with specs below
   - Inbound rule 1: Type: All traffic, Source: My IP
   - Outbound rule 1: Type: All traffic, Destination: Anywhere-IPv4
