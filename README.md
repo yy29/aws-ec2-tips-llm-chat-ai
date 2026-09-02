@@ -10,9 +10,10 @@
 - [info_tool_ai.md](info_tool_ai.md)
 
 ### Setup: AI & Machine Learning Development Environment on AWS EC2
-- Small scale instance: [setup_aws_gpu_single.md](setup_aws_gpu_single.md) (for inferencing, finetuning and traditional deep learning)
-- Medium scale instance: [setup_aws_gpu_multi.md](setup_aws_gpu_multi.md) (For small scale models pretraining and finetuning)
-- Large scale instance: [setup_aws_gpu_high.md](setup_aws_gpu_high.md) (For large language & vision models pretraining)
+- [setup_aws_dlami.md](setup_aws_dlami.md)
+  - Small scale instance: for inferencing, finetuning and traditional deep learning
+  - Medium scale instance: For small scale models pretraining and finetuning
+  - Large scale instance: For large language & vision models pretraining
 
 ### Manual: LLM Training
 - Overall Training Flow: [info_llm_creation.md](info_llm_creation.md)
