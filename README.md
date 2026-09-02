@@ -13,14 +13,14 @@
 - [setup_aws_dlami.md](setup_aws_dlami.md)
 
 ### Manual: LLM Training
-- Overall Training Flow: [info_llm_creation.md](info_llm_creation.md)
-- Pretraining: [info_llm_pretraining.md](info_llm_pretraining.md)
+- Overall Training Flow: [manual_llm_creation.md](manual_llm_creation.md)
+- Pretraining: [manual_llm_pretraining.md](manual_llm_pretraining.md)
 
 ### Manual: LLM Evaluation
-- Evaluation: [info_llm_evaluation.md](info_llm_evaluation.md)
+- Evaluation: [manual_llm_evaluation.md](manual_llm_evaluation.md)
 
 ### Manual: LLM Inferencing & Deployment
-- Inference: [info_llm_inference.md](info_llm_inference.md)
+- Inference: [manual_llm_inference.md](manual_llm_inference.md)
 
 # Additional Tips
 
