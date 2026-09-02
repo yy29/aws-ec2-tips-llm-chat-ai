@@ -60,10 +60,10 @@
 - Microsoft Azure Virtual Machine ND A100 v4 ([info](https://azure.microsoft.com/en-us/products/virtual-machines))
 - Microsoft Azure Virtual Machine NC A100 v4 ([info](https://azure.microsoft.com/en-us/products/virtual-machines))
 - Microsoft Azure Virtual Machine NC4as T4 v3 ([info](https://azure.microsoft.com/en-us/products/virtual-machines))
-- NVIDIA DGX Cloud ([info](https://www.nvidia.com/en-us/data-center/dgx-cloud/))
-- NVIDIA DGX Cloud Lepton ([info](https://www.nvidia.com/en-gb/data-center/dgx-cloud-lepton/))
 - Nebius ([info](https://nebius.com/))
 - Lambda ([info](https://lambda.ai/))
+- NVIDIA DGX Cloud ([info](https://www.nvidia.com/en-us/data-center/dgx-cloud/))
+- NVIDIA DGX Cloud Lepton ([info](https://www.nvidia.com/en-gb/data-center/dgx-cloud-lepton/))
 
 ### Cloud Hosted AI Environment
 - Google Colab ([info](https://colab.research.google.com/?hl=en))
