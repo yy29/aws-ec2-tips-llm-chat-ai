@@ -11,9 +11,6 @@
 
 ### Setup: AI & Machine Learning Development Environment on AWS EC2
 - [setup_aws_dlami.md](setup_aws_dlami.md)
-  - Small scale instance: for inferencing, finetuning and traditional deep learning
-  - Medium scale instance: For small scale models pretraining and finetuning
-  - Large scale instance: For large language & vision models pretraining
 
 ### Manual: LLM Training
 - Overall Training Flow: [info_llm_creation.md](info_llm_creation.md)
