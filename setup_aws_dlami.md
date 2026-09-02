@@ -11,8 +11,7 @@
   - Medium scale: `g7e.12xlarge / g7e.24xlarge / p5.4xlarge / g6e.12xlarge / g6e.48xlarge / p4d.24xlarge / p4de.24xlarge`
   - Large scale: `p5.48xlarge / p5e.48xlarge / p5en.48xlarge / p6e-gb200.36xlarge / p6-b200.48xlarge / p6-b300.48xlarge`
   - Ultra scale: `u-p6e-gb200x36 / u-p6e-gb200x72`
-- AMI Image: Deep Learning Base OSS Nvidia Driver GPU AMI (Ubuntu 24.04)
-- AMI Image Release Notes: https://docs.aws.amazon.com/dlami/latest/devguide/appendix-ami-release-notes.html
+- AMI Image: Deep Learning Base OSS Nvidia Driver GPU AMI (Ubuntu 24.04) [Release Notes](https://docs.aws.amazon.com/dlami/latest/devguide/appendix-ami-release-notes.html)
 - Key Pairs: Create your key pairs and save private key file
 - EBS Storage: Select one from below
   - Small scale: `gp3, Volume: 50GB, IOPS: 3000, Throughput: 125`
