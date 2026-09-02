@@ -3,8 +3,7 @@
 ### (1) [AWS](https://aws.amazon.com/) EC2 Instance Creation
 - Region: Your choice
 - Instance: g6.xlarge / g5.xlarge / g6e.xlarge / g4dn.xlarge
-- AMI Image: Deep Learning Base OSS Nvidia Driver GPU AMI (Ubuntu 22.04)
-- AMI Image Release Notes: https://docs.aws.amazon.com/dlami/latest/devguide/appendix-ami-release-notes.html
+- AMI Image: Deep Learning Base OSS Nvidia Driver GPU AMI (Ubuntu 22.04) [Release Notes](https://docs.aws.amazon.com/dlami/latest/devguide/appendix-ami-release-notes.html)
 - Key Pairs: Create your key pairs and save private key file
 - EBS Storage: gp3, Volume: 50GB, IOPS: 3000, Throughput: 125
 - Security Group: Create one with specs below
