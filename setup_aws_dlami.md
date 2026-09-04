@@ -34,10 +34,10 @@ sudo systemctl stop unattended-upgrades
 sudo apt remove unattended-upgrades
 ```
 
-### (4) Install Necessary Packages
+### (4) Install and Update Necessary Packages
 ```
 sudo apt update
-sudo apt install python3.12-venv
+sudo apt upgrade
 ```
 
 ### (5) Create Non-root User with Password
