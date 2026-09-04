@@ -1,13 +1,13 @@
 # AI Development Environment
 
-### Info: AI Machine Specs and Info
-- [info_ai_machine.md](info_ai_machine.md)
+### Resource: AI Machine Specs and Info
+- [resource_ai_machine.md](resource_ai_machine.md)
 
-### Info: Development Tools
-- [info_tool_dev.md](info_tool_dev.md)
+### Resource: Development Tools
+- [resource_dev_tool.md](resource_dev_tool.md)
 
-### Info: AI Development Sites and Tools
-- [info_tool_ai.md](info_tool_ai.md)
+### Resource: AI Development Sites and Tools
+- [resource_ai_tool.md](resource_ai_tool.md)
 
 ### Setup: AI & Machine Learning Development Environment on AWS EC2
 - [setup_aws_dlami.md](setup_aws_dlami.md)
