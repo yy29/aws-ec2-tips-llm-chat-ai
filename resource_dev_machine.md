@@ -89,3 +89,4 @@
 - Dell S2425H-A 23.8-inch Monitor
 - Anker PowerExpand 6-in-1 USB-C PD Ethernet Hub
 - Anker 332 USB-C Hub
+- Apple EarPods with 3.5 mm Headphone Plug
