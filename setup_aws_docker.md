@@ -49,6 +49,8 @@ sudo groupadd docker
 sudo usermod -aG docker $USER
 # Restart machine after completing commands above
 ```
+
+### (5) Docker Environment Verification
 Verify Docker Installation as Root User
 ```
 sudo docker run hello-world
