@@ -6,7 +6,7 @@
 - [Ubuntu](https://ubuntu.com/)
 
 ### Resource: Software Development Tools
-- SSH terminal: [MobaXterm](https://mobaxterm.mobatek.net/), [Tabby](https://tabby.sh/), [Termius](https://termius.com)
+- SSH terminal: [MobaXterm](https://mobaxterm.mobatek.net/), [Tabby](https://tabby.sh/), [Termius](https://termius.com), [PuTTY](https://putty.org/)
 - SCP client: [WinSCP](https://winscp.net/eng/index.php)
 - Code editor: [Visual Studio Code](https://code.visualstudio.com/)
 - Code management: [GitLab](https://about.gitlab.com/), [GitHub](https://github.com/)
