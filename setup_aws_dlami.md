@@ -14,7 +14,7 @@
 - AMI Image: Deep Learning Base OSS Nvidia Driver GPU AMI (Ubuntu 26.04) [Release Notes](https://docs.aws.amazon.com/dlami/latest/devguide/appendix-ami-release-notes.html)
 - Key Pairs: Create your key pairs and save private key file
 - EBS Storage: Select one from below
-  - Small scale: `gp3, Volume: 50GB, IOPS: 3000, Throughput: 125`
+  - Small scale: `gp3, Volume: 100GB, IOPS: 3000, Throughput: 125`
   - Medium scale: `gp3, Volume: 500GB, IOPS: 3000, Throughput: 125`
   - Large scale: `gp3, Volume: 2000GB, IOPS: 6000, Throughput: 250`
   - Ultra scale: `gp3, Volume: 4000GB, IOPS: 10000, Throughput: 500`
