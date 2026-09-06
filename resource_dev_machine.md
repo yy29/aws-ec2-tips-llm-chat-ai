@@ -85,6 +85,9 @@
 
 # Accessories
 
+### Personal Computing Companions
+- iPad
+
 ### Personal Computer Accessories
 - Logicool K295GP Silent Wireless Keyboard
 - Logicool M331rBK Silent Wireless Mouse
