@@ -27,7 +27,10 @@ sudo apt update
 sudo apt upgrade
 sudo apt install python3-pip
 sudo apt install python3.14-venv
+
+# optional
 sudo apt install unzip
+sudo apt install language-pack-ja
 ```
 
 ### (5) Create Non-root User with Password
