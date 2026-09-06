@@ -74,7 +74,7 @@
 
 ### Personal CPU Machine Specs
 - Dell laptop PC
-- Macbook, Mac Mini, Mac Studio
+- Apple Macbook, Mac Mini, Mac Studio
 
 ### Cloud CPU Machine Specs
 - AWS EC2 m8i, m8a, m9g: General Purpose CPU ([info](https://aws.amazon.com/ec2/instance-types/m8i/))
@@ -86,7 +86,7 @@
 # Accessories
 
 ### Personal Computing Companions
-- iPad
+- Apple iPad
 
 ### Personal Computer Accessories
 - Logicool K295GP Silent Wireless Keyboard
