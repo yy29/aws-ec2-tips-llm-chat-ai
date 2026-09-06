@@ -38,6 +38,9 @@ sudo apt remove unattended-upgrades
 ```
 sudo apt update
 sudo apt upgrade
+
+# optional
+sudo apt install language-pack-ja
 ```
 
 ### (5) Create Non-root User with Password
