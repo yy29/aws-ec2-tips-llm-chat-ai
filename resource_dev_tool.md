@@ -1,3 +1,6 @@
+### Resource: Software Language
+- [Python](https://www.python.org/)
+
 ### Resource: Software Development Tools
 - SSH terminal: [MobaXterm](https://mobaxterm.mobatek.net/), [Tabby](https://tabby.sh/), [Termius](https://termius.com)
 - Code editor: [Visual Studio Code](https://code.visualstudio.com/)
