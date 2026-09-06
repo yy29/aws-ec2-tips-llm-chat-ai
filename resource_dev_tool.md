@@ -1,5 +1,6 @@
 ### Resource: Computer Language
 - [Python](https://www.python.org/)
+- Bash
 
 ### Resource: Computer OS
 - [Ubuntu](https://ubuntu.com/)
