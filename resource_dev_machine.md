@@ -99,3 +99,4 @@
 
 ### Personal Working Accessories
 - TempPro Thermometer & Digital Hygrometer
+- Frequenter Suitcase
