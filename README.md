@@ -7,7 +7,7 @@
 - [resource_dev_tool.md](resource_dev_tool.md)
 
 ### Resource: AI Development Sites and Tools
-- [resource_ai_tool.md](resource_ai_tool.md)
+- [resource_dev_tool_ai.md](resource_dev_tool_ai.md)
 
 ### Setup: AI & Machine Learning Development Environment on AWS EC2
 - [setup_aws_dlami.md](setup_aws_dlami.md)
