@@ -87,11 +87,11 @@
 - Logicool K295GP Silent Wireless Keyboard
 - Logicool M331rBK Silent Wireless Mouse
 - Dell S2425H-A 23.8-inch Monitor
+- Apple EarPods with 3.5 mm Headphone Plug
+- Anker Soundcore 3
 - Anker PowerExpand 6-in-1 USB-C PD Ethernet Hub
 - Anker 332 USB-C Hub
 - Anker PowerExpand+ USB-C to HDMI Adapter
-- Apple EarPods with 3.5 mm Headphone Plug
-- Anker Soundcore 3
 - Anker PowerPort mini
 - Anker Nano II 65W
 - Anker 333 USB-C 100W Cable
