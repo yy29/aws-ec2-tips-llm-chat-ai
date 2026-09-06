@@ -95,6 +95,7 @@
 - Anker PowerPort mini
 - Anker Nano II 65W
 - Anker 333 USB-C 100W Cable
+- WD My Passport Portable HDD
 
 ### Personal Working Accessories
 - TempPro Thermometer & Digital Hygrometer
