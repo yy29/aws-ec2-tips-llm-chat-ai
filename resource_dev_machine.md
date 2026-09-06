@@ -83,7 +83,7 @@
 - AWS EC2 i7i, i8g: Storage Optimized CPU ([info](https://aws.amazon.com/ec2/instance-types/i7i/))
 - AWS EC2 t3, t3a, t4g: Tiny CPU ([info](https://aws.amazon.com/ec2/instance-types/t3/))
 
-### Computer Accessories
+### Personal Computer Accessories
 - Logicool K295GP Silent Wireless Keyboard
 - Logicool M331rBK Silent Wireless Mouse
 - Dell S2425H-A 23.8-inch Monitor
