@@ -3,7 +3,7 @@
 ### Resource: AI Machine Specs and Info
 - [resource_ai_machine.md](resource_ai_machine.md)
 
-### Resource: Development Tools
+### Resource: Software & System Development Tools
 - [resource_dev_tool.md](resource_dev_tool.md)
 
 ### Resource: AI Development Sites and Tools
