@@ -6,5 +6,8 @@
 - Cloud-based interactive python and GPU: [Google Colab](https://colab.research.google.com/)
 
 ### Resource: System Development Tools
+- Container development: [Docker](https://www.docker.com/)
+- Cluster management: [Slurm Workload Manager](https://slurm.schedmd.com/)
+
+### Resource: System Management Tools
 - Hardware resource monitoring: [Zabbix](https://www.zabbix.com/)
-- Clusters management: [Slurm Workload Manager](https://slurm.schedmd.com/)
