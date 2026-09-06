@@ -90,3 +90,4 @@
 - Anker PowerExpand 6-in-1 USB-C PD Ethernet Hub
 - Anker 332 USB-C Hub
 - Apple EarPods with 3.5 mm Headphone Plug
+- Anker PowerPort mini
