@@ -46,7 +46,8 @@ sudo apt install docker-ce docker-ce-cli containerd.io docker-buildx-plugin dock
 Manage Docker as a non-root user (Optional but Recommended)
 ```
 sudo groupadd docker
-sudo usermod -aG docker ubuntu
+sudo usermod -aG docker $USER
+# Restart machine after completing commands above
 ```
 Verify Docker Installation
 ```
