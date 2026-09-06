@@ -1,6 +1,6 @@
 # AI Development Environment
 
-### Resource: Compute Machine Specs and Info
+### Resource: Compute Machines
 - [resource_dev_machine.md](resource_dev_machine.md)
 
 ### Resource: Software & System Development Tools
