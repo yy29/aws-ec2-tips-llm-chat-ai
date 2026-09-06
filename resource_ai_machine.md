@@ -70,7 +70,7 @@
 - Hugging Face Spaces ([info](https://huggingface.co/spaces))
 - Kaggle Notebooks ([info](https://www.kaggle.com/code))
 
-# Cloud CPU Machine Specs and Info
+# CPU Machine Specs and Info
 
 ### Personal CPU Machine Specs
 - Windows desktop and laptop PC
