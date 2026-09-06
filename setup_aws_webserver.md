@@ -77,7 +77,7 @@ server {
 ```
 
 4. WordPress Files:
-Download the latest WordPress archive from wordpress.org and extract its contents into the www directory.
+Download the latest [WordPress package](https://wordpress.org/download/) from wordpress.org and extract its contents into the www directory.
 
 5. Running the Setup:
 Navigate to the directory containing docker-compose.yml in your terminal and execute:
