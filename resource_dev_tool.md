@@ -1,7 +1,7 @@
-### Resource: Software Language
+### Resource: Computer Language
 - [Python](https://www.python.org/)
 
-### Resource: OS
+### Resource: Computer OS
 - [Ubuntu](https://ubuntu.com/)
 
 ### Resource: Software Development Tools
