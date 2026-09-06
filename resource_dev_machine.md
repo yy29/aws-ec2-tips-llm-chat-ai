@@ -73,8 +73,8 @@
 # CPU Machine Specs and Info
 
 ### Personal CPU Machine Specs
-- Windows desktop and laptop PC
-- Mac Mini, Mac Studio, Macbook
+- Dell laptop PC
+- Macbook, Mac Mini, Mac Studio
 
 ### Cloud CPU Machine Specs
 - AWS EC2 m8i, m8a, m9g: General Purpose CPU ([info](https://aws.amazon.com/ec2/instance-types/m8i/))
