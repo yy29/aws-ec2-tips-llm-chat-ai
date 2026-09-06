@@ -17,7 +17,7 @@
   - Small scale: `gp3, Volume: 50GB, IOPS: 3000, Throughput: 125`
   - Medium scale: `gp3, Volume: 500GB, IOPS: 3000, Throughput: 125`
   - Large scale: `gp3, Volume: 2000GB, IOPS: 6000, Throughput: 250`
-  - Ultra scale: `gp3, Volume: 2000GB, IOPS: 10000, Throughput: 1000`
+  - Ultra scale: `gp3, Volume: 2000GB, IOPS: 10000, Throughput: 500`
 - Security Group: Create one with specs below
   - Inbound rule 1: Type: All traffic, Source: My IP
   - Outbound rule 1: Type: All traffic, Destination: Anywhere-IPv4
