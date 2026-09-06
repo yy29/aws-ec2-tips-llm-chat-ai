@@ -3,7 +3,7 @@
 ### (1) [AWS](https://aws.amazon.com/) EC2 Instance Creation
 - Region: Your choice
 - Instance: m8a.medium / m9g.medium / r8g.medium
-- AMI Image: Ubuntu 24.04
+- AMI Image: Ubuntu 26.04
 - Key Pairs: Create your key pairs and save private key file
 - EBS Storage: gp3, Volume: 20GB, IOPS: 3000, Throughput: 125
 - Security Group: Create one with specs below
@@ -26,7 +26,7 @@ sudo apt remove unattended-upgrades
 sudo apt update
 sudo apt upgrade
 sudo apt install python3-pip
-sudo apt install python3.12-venv
+sudo apt install python3.14-venv
 sudo apt install unzip
 ```
 
