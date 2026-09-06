@@ -53,3 +53,7 @@ Verify Docker Installation
 ```
 sudo docker run hello-world
 ```
+Verify Docker Installation as Non-root User
+```
+docker run hello-world
+```
