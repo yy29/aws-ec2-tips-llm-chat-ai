@@ -24,7 +24,7 @@
 - Note: This AMI Image comes preinstalled with Docker and NVIDIA Container Toolkit
 
 ### (2) Connect to Instance
-- Run SSH tool (Putty or [MobaXterm](https://mobaxterm.mobatek.net/) etc.)
+- Run SSH tool ([MobaXterm](https://mobaxterm.mobatek.net/) etc.)
 - Create new SSH session with `Instance IP address, username: ubuntu, private key file` to connect to the instance
 - Do steps below in this SSH session.
 
