@@ -14,10 +14,10 @@
 - AMI Image: Deep Learning Base OSS Nvidia Driver GPU AMI (Ubuntu 26.04) [Release Notes](https://docs.aws.amazon.com/dlami/latest/devguide/appendix-ami-release-notes.html)
 - Key Pairs: Create your key pairs and save private key file
 - EBS Storage: Select one from below
-  - Small scale: `gp3, Volume: 100GB, IOPS: 3000, Throughput: 125 MB/s`
-  - Medium scale: `gp3, Volume: 500GB, IOPS: 3000, Throughput: 125 MB/s`
-  - Large scale: `gp3, Volume: 2000GB, IOPS: 6000, Throughput: 250 MB/s`
-  - Ultra scale: `gp3, Volume: 4000GB, IOPS: 10000, Throughput: 500 MB/s`
+  - Small scale: `gp3, Volume: 100GB, IOPS: 3000, Throughput: 125MB/s`
+  - Medium scale: `gp3, Volume: 500GB, IOPS: 3000, Throughput: 125MB/s`
+  - Large scale: `gp3, Volume: 2000GB, IOPS: 6000, Throughput: 250MB/s`
+  - Ultra scale: `gp3, Volume: 4000GB, IOPS: 10000, Throughput: 500MB/s`
 - Security Group: Create one with specs below
   - Inbound rule 1: Type: All traffic, Source: My IP
   - Outbound rule 1: Type: All traffic, Destination: Anywhere-IPv4
