@@ -21,7 +21,17 @@ sudo systemctl stop unattended-upgrades
 sudo apt remove unattended-upgrades
 ```
 
-### (4) Docker Environment Setup
+### (4) Install Necessary Packages
+```
+sudo apt update
+sudo apt upgrade
+
+# optional
+sudo apt install unzip
+sudo apt install language-pack-ja
+```
+
+### (5) Docker Environment Setup
 Add Docker's official GPG key
 ```
 sudo apt update
@@ -50,7 +60,7 @@ sudo usermod -aG docker $USER
 # Restart machine after completing commands above
 ```
 
-### (5) Docker Environment Verification
+### (6) Docker Environment Verification
 Verify Docker Installation as Root User
 ```
 sudo docker run hello-world
