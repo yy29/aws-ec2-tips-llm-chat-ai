@@ -6,7 +6,7 @@
 
 ### (1) [AWS](https://aws.amazon.com/) EC2 Instance Creation
 - Region: Your choice
-- Instance: Select one from below
+- Instance: Select one from below (my favorite: g6.xlarge)
   - Small scale: `g7e.2xlarge / g7.2xlarge / g6e.xlarge / g6.xlarge / g5.xlarge / g4dn.xlarge`
   - Medium scale: `g7e.12xlarge / g7e.24xlarge / p5.4xlarge / g6e.12xlarge / g6e.48xlarge / p4d.24xlarge / p4de.24xlarge`
   - Large scale: `p5.48xlarge / p5e.48xlarge / p5en.48xlarge / p6e-gb200.36xlarge / p6-b200.48xlarge / p6-b300.48xlarge`
