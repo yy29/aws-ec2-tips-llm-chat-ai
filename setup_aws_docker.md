@@ -1,4 +1,4 @@
-## Setup Small Scale CPU Only Docker Environment in AWS EC2
+## Setup CPU Only Docker Environment in AWS EC2
 
 ### (1) [AWS](https://aws.amazon.com/) EC2 Instance Creation
 - Region: Your choice
