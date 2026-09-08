@@ -6,6 +6,7 @@
 - [Ubuntu](https://ubuntu.com/)
   - Ubuntu Release Cycle ([Link](https://ubuntu.com/about/release-cycle))
   - Ubuntu Kernel Lifecycle ([Link](https://ubuntu.com/kernel/lifecycle))
+  - Ubuntu Python Versions ([Link](https://ubuntu.com/developers/docs/reference/availability/python/))
 
 ### Resource: Software Development Tools
 - SSH terminal: [MobaXterm](https://mobaxterm.mobatek.net/), [Tabby](https://tabby.sh/), [Termius](https://termius.com), [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
