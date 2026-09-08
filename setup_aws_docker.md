@@ -5,7 +5,7 @@
 - Instance: m8a.medium / m9g.medium / r8g.medium
 - AMI Image: Ubuntu 26.04
 - Key Pairs: Create your key pairs and save private key file
-- EBS Storage: gp3, Volume: 20GB, IOPS: 3000, Throughput: 125MB/s
+- EBS Storage: Type: gp3, Volume: 20GB, IOPS: 3000, Throughput: 125MB/s
 - Security Group: Create one with specs below
   - Inbound rule 1: Type: All traffic, Source: My IP
   - Outbound rule 1: Type: All traffic, Destination: Anywhere-IPv4
