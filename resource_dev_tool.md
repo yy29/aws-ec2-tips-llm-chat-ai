@@ -18,6 +18,7 @@
 
 ### Resource: System Development Tools
 - Container development: [Docker](https://www.docker.com/)
+- Virtual machine management: [Cloud-init](https://cloud-init.io/)
 - Cluster management: [Slurm Workload Manager](https://slurm.schedmd.com/)
 
 ### Resource: System Management Tools
