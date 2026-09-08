@@ -19,8 +19,8 @@
   - Large scale: `Type: gp3, Volume: 2000GB, IOPS: 6000, Throughput: 250MB/s`
   - Ultra scale: `Type: gp3, Volume: 4000GB, IOPS: 10000, Throughput: 500MB/s`
 - Security Group: Create one with specs below
-  - Inbound rule 1: Type: All traffic, Source: My IP
-  - Outbound rule 1: Type: All traffic, Destination: Anywhere-IPv4
+  - Inbound rule 1: `Type: All traffic, Source: My IP`
+  - Outbound rule 1: `Type: All traffic, Destination: Anywhere-IPv4`
 - Note: This AMI Image comes preinstalled with Docker and NVIDIA Container Toolkit
 
 ### (2) Connect to Instance
