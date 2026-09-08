@@ -5,7 +5,7 @@
 - Instance: g6.xlarge / g5.xlarge / g6e.xlarge / g4dn.xlarge
 - AMI Image: Deep Learning Base OSS Nvidia Driver GPU AMI (Ubuntu 20.04) [Release Notes](https://docs.aws.amazon.com/dlami/latest/devguide/appendix-ami-release-notes.html)
 - Key Pairs: Create your key pairs and save private key file
-- EBS Storage: gp3, Volume: 50GB, IOPS: 3000, Throughput: 125MB/s
+- EBS Storage: Type: gp3, Volume: 50GB, IOPS: 3000, Throughput: 125MB/s
 - Security Group: Create one with specs below
   - Inbound rule 1: Type: All traffic, Source: My IP
   - Outbound rule 1: Type: All traffic, Destination: Anywhere-IPv4
