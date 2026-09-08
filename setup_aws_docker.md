@@ -2,7 +2,7 @@
 
 ### (1) [AWS](https://aws.amazon.com/) EC2 Instance Creation
 - Region: Your choice
-- Instance: m8a.medium / m9g.medium / r8g.medium
+- Instance: m8a.medium / m9g.medium / r9g.medium
 - AMI Image: Ubuntu 26.04
 - Key Pairs: Create your key pairs and save private key file
 - EBS Storage: Type: gp3, Volume: 20GB, IOPS: 3000, Throughput: 125MB/s
