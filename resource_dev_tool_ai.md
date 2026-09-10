@@ -4,3 +4,6 @@
 - [NVIDIA NeMo](https://www.nvidia.com/en-us/ai-data-science/products/nemo/)
 - [Weights and Biases](https://wandb.ai/site)
 - Amazon Bedrock
+
+### Resource: Useful Sites
+- https://aws.amazon.com/blogs/aws/
