@@ -24,3 +24,4 @@
 ### Resource: System Management Tools
 - Hardware resource monitoring: [Zabbix](https://www.zabbix.com/)
 - User management: [OpenLDAP](https://www.openldap.org/)
+- User authentication: SSO (Single Sign-On)
