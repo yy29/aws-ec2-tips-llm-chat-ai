@@ -57,12 +57,6 @@ Run the following in non-root user's SSH terminal.
 touch ~/.hushlogin
 ```
 
-#### Setup Python Virtual Environment
-```
-python3 -m venv my_venv3
-source my_venv3/bin/activate
-```
-
 #### Setup Private and Public SSH Keys
 Create .ssh folder, then copy your personal private and public SSH keys to .ssh/ folder, then set access permissions as follow:
 ```
@@ -77,4 +71,10 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 or
 ```
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+```
+
+#### Setup Python Virtual Environment
+```
+python3 -m venv my_venv3
+source my_venv3/bin/activate
 ```
