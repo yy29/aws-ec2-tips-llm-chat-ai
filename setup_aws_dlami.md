@@ -65,6 +65,13 @@ echo 'export LD_LIBRARY_PATH=$CUDA_HOME/lib64:$LD_LIBRARY_PATH' >> ~/.bashrc
 source ~/.bashrc
 ```
 
+#### Add Language Support (Optional)
+```
+echo 'export LANG=ja_JP.UTF-8' >> ~/.bashrc
+echo 'export LC_CTYPE=ja_JP.UTF-8' >> ~/.bashrc
+source ~/.bashrc
+```
+
 #### Setup Private and Public SSH Keys
 Create .ssh folder, then copy your personal private and public SSH keys to .ssh/ folder, then set access permissions as follow:
 ```
