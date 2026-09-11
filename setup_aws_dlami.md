@@ -57,6 +57,14 @@ Run the following in non-root user's SSH terminal.
 touch ~/.hushlogin
 ```
 
+#### Specify CUDA Version to Use
+```
+echo 'export CUDA_HOME=/usr/local/cuda-13.3' >> ~/.bashrc
+echo 'export PATH=$CUDA_HOME/bin:$PATH' >> ~/.bashrc
+echo 'export LD_LIBRARY_PATH=$CUDA_HOME/lib64:$LD_LIBRARY_PATH' >> ~/.bashrc
+source ~/.bashrc
+```
+
 #### Setup Private and Public SSH Keys
 Create .ssh folder, then copy your personal private and public SSH keys to .ssh/ folder, then set access permissions as follow:
 ```
