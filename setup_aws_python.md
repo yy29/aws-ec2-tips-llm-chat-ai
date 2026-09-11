@@ -47,6 +47,13 @@ Run the following in non-root user's SSH terminal.
 touch ~/.hushlogin
 ```
 
+#### Add Language Support (Optional)
+```
+echo 'export LANG=ja_JP.UTF-8' >> ~/.bashrc
+echo 'export LC_CTYPE=ja_JP.UTF-8' >> ~/.bashrc
+source ~/.bashrc
+```
+
 #### Setup Private and Public SSH Keys
 Create .ssh folder, then copy your personal private and public SSH keys to .ssh/ folder, then set access permissions as follow:
 ```
