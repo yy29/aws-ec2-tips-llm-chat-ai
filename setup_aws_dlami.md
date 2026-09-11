@@ -75,13 +75,9 @@ chmod 600 .ssh/
 chmod 600 .ssh/private_key
 chmod 644 .ssh/public_key.pub
 ```
-If currently do not possess any SSH key, generate a new pair by running the following command:
+If currently do not possess any SSH key, generate a new pair of Ed25519 by running the following command:
 ```
 ssh-keygen -t ed25519 -C "your_email@example.com"
-```
-or
-```
-ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ```
 
 #### Setup Python Virtual Environment
