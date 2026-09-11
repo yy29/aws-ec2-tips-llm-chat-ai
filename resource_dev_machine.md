@@ -82,3 +82,14 @@
 - AWS EC2 c8i, c8a, c9g: Compute Optimized CPU ([info](https://aws.amazon.com/ec2/instance-types/c8i/))
 - AWS EC2 i7i, i8g: Storage Optimized CPU ([info](https://aws.amazon.com/ec2/instance-types/i7i/))
 - AWS EC2 t3, t3a, t4g: Tiny CPU ([info](https://aws.amazon.com/ec2/instance-types/t3/))
+
+# Storage Specs and Info
+
+### Cloud Standard Storage Specs
+- AWS EBS
+
+### Cloud Object Storage Specs
+- AWS S3
+
+### Cloud Archival Storage Specs
+- AWS S3 Glacier Deep Archive
