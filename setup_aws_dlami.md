@@ -68,7 +68,10 @@ source ~/.bashrc
 #### Setup Private and Public SSH Keys
 Create .ssh folder, then copy your personal private and public SSH keys to .ssh/ folder, then set access permissions as follow:
 ```
-chmod 600 .ssh
+mkdir .ssh
+cp private_key .ssh/
+cp public_key.pub .ssh/
+chmod 600 .ssh/
 chmod 600 .ssh/private_key
 chmod 644 .ssh/public_key.pub
 ```
