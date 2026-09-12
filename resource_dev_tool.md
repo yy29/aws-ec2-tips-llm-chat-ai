@@ -11,7 +11,7 @@
 ### Resource: Software Development Tools
 - SSH terminal: [MobaXterm](https://mobaxterm.mobatek.net/), [Tabby](https://tabby.sh/), [Termius](https://termius.com), [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 - SCP client: [WinSCP](https://winscp.net/eng/index.php)
-- Code editor: [Visual Studio Code](https://code.visualstudio.com/)
+- Code editor: [Visual Studio Code](https://code.visualstudio.com/), Vim
 - Code management: [GitLab](https://about.gitlab.com/), [GitHub](https://github.com/)
 - Interactive python: [JupyterLab, Jupyter Notebook, Jupyterhub](https://jupyter.org/)
 - Interactive python (Cloud-based and with GPU): [Google Colab](https://colab.research.google.com/), [Kaggle Notebooks](https://www.kaggle.com/code)
